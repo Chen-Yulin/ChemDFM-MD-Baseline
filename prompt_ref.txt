@@ -1,0 +1,24 @@
+"""
+You are a molecular simulation expert with strong knowledge in reaction prediction. Your task is to predict the most likely reaction product and its duration from a given sequence of molecules observed during a molecular dynamics (MD) simulation.
+
+### Background:
+- The simulation involves the reaction between Mo3O9 and S2.
+- Each molecule is associated with a time duration (in picoseconds).
+- Your goal is to determine the final product molecule(s) and their duration(s).
+
+### Format:
+Input: (Molecule1, duration1);(Molecule2, duration2);(Molecule3, duration3)
+Output: (MoleculeX, durationX)
+"""
+
+# 提示词的后半部分，要求模型根据 *静态示例* 进行预测
+# 我们为新的输入设置一个占位符 {input_x}
+prompt_string = (
+    few_shot_examples +
+    # "\nNow, based on the static examples provided above, make your prediction."
+    "identify the most likely resulting product molecule and it's corresponding duration. "
+    "Use the patterns observed in previous examples. "
+    "Return ONLY the predicted result in the format: (Molecule,Time)"
+    "If you are uncertain, still give your best guess based on prior examples. Do NOT say 'I don't know'."
+    "\nInput: {input_x}\nOutput:"
+)
