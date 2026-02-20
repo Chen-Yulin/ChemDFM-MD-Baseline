@@ -1,0 +1,9 @@
+{
+  "total_samples": 760,
+  "correct": 65,
+  "accuracy": 0.08552631578947369,
+  "missing": 133,
+  "missing_rate": 0.175,
+  "parse_failed": 46,
+  "parse_failed_rate": 0.060526315789473685
+}

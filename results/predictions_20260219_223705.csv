@@ -1,0 +1,770 @@
+input,true_output,true_molecule,raw_output,pred_molecule,pred_time
+"(MoS5,84);(MoS3,2);(MoS5,181)","(MoS7,11)",MoS7,"(MoS2,365)",MoS2,365
+"(MoS,68);(MoS3,167);(MoS5,247)","(MoS7,11)",MoS7,"(MoS3, 201)",MoS3,201
+"(MoS5,239);(MoOS6,11);(MoS5,171)","(MoS7,14)",MoS7,"(MoOS2,500)",MoOS2,500
+"(Mo2S8,80);(Mo2S10,12);(MoS5,39)","(MoS7,13)",MoS7,"(Mo2S6, 25)",Mo2S6,25
+"(Mo2S9,235);(MoS4,7);(MoS5,123)","(MoS7,15)",MoS7,"(Mo6S8, 1025)",Mo6S8,1025
+"(Mo2S8,6);(Mo2S6,1);(MoS5,21)","(MoS7,16)",MoS7,"(Mo2S7, 18)",Mo2S7,18
+"(MoS5,2);(MoOS6,5);(MoS5,89)","(MoS7,21)",MoS7,"(MoS4,100)",MoS4,100
+"(MoS5,3);(MoOS6,8);(MoS5,18)","(MoS7,18)",MoS7,"(Mo3S4,22)",Mo3S4,22
+"(MoOS6,3);(Mo2S9,6);(MoS5,31)","(MoS7,25)",MoS7,"(Mo4S12, 55)",Mo4S12,55
+"(MoS5,6);(MoS3,95);(MoS5,407)","(MoS7,24)",MoS7,"(MoS4,1507)",MoS4,1507
+"(Mo2S7,249);(Mo2S9,405);(MoS5,16)","(MoS7,28)",MoS7,"(Mo2S6, 120)",Mo2S6,120
+"(MoOS4,6);(MoS3,78);(MoS5,255)","(MoS7,32)",MoS7,"(MoOS2,300)",MoOS2,300
+"(MoOS5,17);(Mo2S8,706);(Mo2S9,13)","(MoS7,36)",MoS7,"(Mo2S10, 15)",Mo2S10,15
+"(MoOS4,10);(MoS3,12);(MoS5,1014)","(MoS7,34)",MoS7,"(MoOS4, 1014)",MoOS4,1014
+"(Mo2S8,37);(Mo2S7,1);(MoS5,56)","(MoS7,41)",MoS7,"(Mo2S6, 74)",Mo2S6,74
+"(MoS5,353);(MoOS6,49);(MoS5,203)","(MoS7,45)",MoS7,"(MoOS6,350)",MoOS6,350
+"(MoS3,12);(Mo2S6,119);(MoS5,263)","(MoS7,52)",MoS7,"(Mo2S6,119)",Mo2S6,119
+"(MoOS4,6);(MoS3,16);(MoS5,542)","(MoS7,53)",MoS7,"(MoOS4, 42)",MoOS4,42
+"(MoS3,1);(MoOS6,1);(MoS5,610)","(MoS7,59)",MoS7,"(MoOS6, 610)",MoOS6,610
+"(MoS4,1);(Mo2S9,2);(MoS5,1191)","(MoS7,63)",MoS7,"(MoS4,1000)",MoS4,1000
+"(MoS5,43);(MoS3,116);(MoS5,352)","(MoS7,74)",MoS7,"(Mo2S6, 300)",Mo2S6,300
+"(MoOS4,53);(MoS3,143);(MoS5,235)","(MoS7,74)",MoS7,"(MoS4,53)",MoS4,53
+"(Mo2S9,210);(Mo2S10,30);(MoS5,378)","(MoS7,98)",MoS7,"(Mo2S11, 360)",Mo2S11,360
+"(MoS3,182);(Mo2S10,35);(MoS5,581)","(MoS7,98)",MoS7,"(Mo4S18, 1165)",Mo4S18,1165
+"(MoOS5,5);(Mo2S8,2);(MoS5,3)","(MoS7,121)",MoS7,"(Mo2S9,8)",Mo2S9,8
+"(MoOS4,41);(MoOS6,3);(MoS5,178)","(MoS7,109)",MoS7,"(MoOS5, durationX)",,
+"(Mo2S7,30);(Mo2S8,128);(Mo2S7,44)","(MoS7,133)",MoS7,"(Mo2S9, 128)",Mo2S9,128
+"(Mo2S7,30);(Mo2S8,128);(Mo2S7,44)","(MoS7,133)",MoS7,"(Mo2S8, 128)",Mo2S8,128
+"(MoS4,1);(MoS5,256);(Mo2S9,44)","(MoS7,180)",MoS7,"(Mo2S9,44)",Mo2S9,44
+"(MoOS4,57);(MoS3,333);(MoS5,576)","(MoS7,166)",MoS7,"(MoOS3,333)",MoOS3,333
+"(MoS3,1);(MoS5,208);(Mo2S9,7)","(MoS7,206)",MoS7,"(Mo4S6, 35)",Mo4S6,35
+"(MoS5,4);(MoOS6,19);(MoS5,57)","(MoS7,202)",MoS7,"(MoS4, 64)",MoS4,64
+"(MoOS4,4);(MoS3,293);(MoS5,350)","(MoS7,242)",MoS7,"(MoOS3, 250)",MoOS3,250
+"(MoS2,567);(Mo2S9,66);(MoS5,113)","(MoS7,243)",MoS7,"(Mo3S8, 89)",Mo3S8,89
+"(MoS4,64);(Mo2S9,4);(MoS5,838)","(MoS7,303)",MoS7,"(MoS4,64)",MoS4,64
+"(MoS5,2);(MoOS6,40);(MoS5,274)","(MoS7,309)",MoS7,"(Mo3S12, 316)",Mo3S12,316
+"(MoOS4,160);(MoOS6,7);(MoS5,587)","(MoS7,352)",MoS7,"(MoOS2, 100)",MoOS2,100
+"(MoS5,25);(MoS3,93);(MoS5,471)","(MoS7,378)",MoS7,"(MoS3,500)",MoS3,500
+"(MoS3,745);(MoOS3,353);(MoS5,114)","(MoS7,456)",MoS7,"(MoS4, 114)",MoS4,114
+"(MoOS4,41);(MoOS6,5);(MoS5,289)","(MoS7,471)",MoS7,"(MoS2, 175)",MoS2,175
+"(MoS4,350);(MoOS5,9);(MoS4,109)","(MoS6,12)",MoS6,"(MoOS5, 168)",MoOS5,168
+"(MoOS3,19);(MoS2,77);(MoS4,204)","(MoS6,11)",MoS6,"(MoOS3, 19)",MoOS3,19
+"(Mo2S8,2);(MoS5,2);(Mo2S8,1)","(MoS6,13)",MoS6,"(Mo2S9, 4)",Mo2S9,4
+"(MoS3,1);(Mo2S9,73);(MoS4,76)","(MoS6,13)",MoS6,"(Mo2S6, 68)",Mo2S6,68
+"(MoS5,33);(MoOS5,1);(MoS4,177)","(MoS6,17)",MoS6,"(MoOS5, 181)",MoOS5,181
+"(Mo2S9,6);(MoS4,27);(MoS5,2)","(MoS6,15)",MoS6,"(Mo2S10,35)",Mo2S10,35
+"(MoS5,8);(MoS3,2);(MoS5,207)","(MoS6,18)",MoS6,"(MoS3, 100)",MoS3,100
+"(MoS,220);(MoS3,164);(MoS4,146)","(MoS6,18)",MoS6,"(MoS3,164)",MoS3,164
+"(Mo2S9,64);(Mo2S7,174);(Mo2S9,1396)","(MoS6,25)",MoS6,"(Mo2S6, 1080)",Mo2S6,1080
+"(MoOS6,3);(MoS5,37);(Mo2S10,3)","(MoS6,22)",MoS6,"(Mo4S18,27)",Mo4S18,27
+"(Mo2S5,273);(MoS2,38);(MoS4,117)","(MoS6,28)",MoS6,"(Mo6S8, 00000)",Mo6S8,00000
+"(Mo2S8,25);(Mo2S10,12);(MoS5,82)","(MoS6,30)",MoS6,"(Mo2S8,100)",Mo2S8,100
+"(MoS3,78);(MoS5,846);(Mo2S7,97)","(MoS6,33)",MoS6,"(Mo3S8, 1257)",Mo3S8,1257
+"(MoS,37);(MoS2,4);(MoS4,340)","(MoS6,35)",MoS6,"(MoS4,340)",MoS4,340
+"(Mo2S6,162);(Mo2S8,10);(MoS4,303)","(MoS6,42)",MoS6,"(Mo2S9, 175)",Mo2S9,175
+"(MoS4,15);(MoS2,91);(MoS4,67)","(MoS6,45)",MoS6,"(MoS2,105)",MoS2,105
+"(MoOS6,5);(MoS5,121);(MoS4,1)","(MoS6,49)",MoS6,"(MoOS6,500)",MoOS6,500
+"(Mo2S7,455);(Mo2S9,14);(MoS4,308)","(MoS6,48)",MoS6,"(Mo2S6, 28.64)",Mo2S6,28
+"(MoS4,1);(MoOS5,30);(MoOS7,1)","(MoS6,62)",MoS6,"(MoS4, 33)",MoS4,33
+"(Mo2S7,2);(Mo2S9,4);(MoS4,160)","(MoS6,65)",MoS6,"(Mo6S8,220)",Mo6S8,220
+"(MoS4,70);(MoOS5,2);(MoS4,43)","(MoS6,76)",MoS6,"(MoS4,70)",MoS4,70
+"(Mo2S7,72);(Mo2S9,108);(MoS5,511)","(MoS6,79)",MoS6,"(Mo2S12, 800)",Mo2S12,800
+"(MoOS2,2);(MoS,69);(Mo2S7,3)","(MoS6,96)",MoS6,"(Mo4S10, 55)",Mo4S10,55
+"(MoOS4,6);(MoS3,322);(Mo2S9,85)","(MoS6,98)",MoS6,"(MoOS4,220)",MoOS4,220
+"(Mo2S9,250);(Mo2S7,472);(Mo2S9,30)","(MoS6,113)",MoS6,"(Mo2S8,500)",Mo2S8,500
+"(MoS4,9);(MoS2,18);(MoS4,231)","(MoS6,106)",MoS6,"(MoS2,18)",MoS2,18
+"(MoS2,28);(MoS3,1);(MoS4,357)","(MoS6,140)",MoS6,"(MoS2, 28)",MoS2,28
+"(MoS2,241);(Mo2S7,16);(MoS4,36)","(MoS6,143)",MoS6,"(MoS4,36)",MoS4,36
+"(MoS5,87);(Mo2S7,44);(Mo2S6,133)","(MoS6,180)",MoS6,"(MoS4, 68)",MoS4,68
+"(Mo2S6,2);(Mo2S8,2);(MoS4,124)","(MoS6,168)",MoS6,"(Mo2S9,22)",Mo2S9,22
+"(MoS4,2);(MoOS5,4);(MoS4,173)","(MoS6,198)",MoS6,"(MoS4,200)",MoS4,200
+"(MoS3,15);(Mo2S7,106);(Mo2S9,194)","(MoS6,190)",MoS6,"(Mo2S6, 500)",Mo2S6,500
+"(Mo2S9,45);(MoS5,2);(Mo2S9,68)","(MoS6,244)",MoS6,"(Mo6S7, 68)",Mo6S7,68
+"(MoOS4,4);(MoOS3,5);(Mo2S8,2)","(MoS6,270)",MoS6,"(MoOS4,6)",MoOS4,6
+"(MoS3,252);(Mo2S7,8);(MoS4,374)","(MoS6,318)",MoS6,"(Mo2S6,500)",Mo2S6,500
+"(MoS4,144);(MoOS5,8);(MoS4,49)","(MoS6,284)",MoS6,"(MoOS5,8)",MoOS5,8
+"(MoS4,4);(MoOS5,11);(MoOS7,9)","(MoS6,379)",MoS6,"(MoOS8, 13)",MoOS8,13
+"(Mo2S8,1);(Mo2S9,76);(MoS4,56)","(MoS6,350)",MoS6,"(Mo2S8,80)",Mo2S8,80
+"(Mo2S7,48);(Mo2S9,3);(MoS4,38)","(MoS6,492)",MoS6,"(Mo2S12, 82)",Mo2S12,82
+"(Mo2S8,121);(Mo2S10,17);(MoS5,385)","(MoS6,415)",MoS6,"(Mo2S6, 85)",Mo2S6,85
+"(MoS3,3);(MoS5,30);(MoS3,61)","(MoS5,11)",MoS5,"(MoS4,74)",MoS4,74
+"(MoOS2,11);(MoS,182);(MoS3,69)","(MoS5,10)",MoS5,"(MoOS2, 11)",MoOS2,11
+"(MoS3,471);(MoOS4,5);(MoS3,41)","(MoS5,13)",MoS5,"(MoOS3, 127)",MoOS3,127
+"(MoS3,36);(MoS5,1);(MoS4,110)","(MoS5,13)",MoS5,"(MoS4,35)",MoS4,35
+"(MoOS2,84);(MoOS4,10);(MoS3,3)","(MoS5,16)",MoS5,"(MoOS4,84)",MoOS4,84
+"(MoOS2,15);(MoS5,13);(MoS3,11)","(MoS5,16)",MoS5,"(MoOS2,15)",MoOS2,15
+"(Mo2S6,89);(Mo2S8,49);(Mo2S6,69)","(MoS5,19)",MoS5,"(Mo2S8,68)",Mo2S8,68
+"(Mo2S7,44);(Mo2S10,2);(Mo2S8,37)","(MoS5,21)",MoS5,"(Mo2S5,25)",Mo2S5,25
+"(MoS2,46);(Mo2S8,13);(MoS3,78)","(MoS5,26)",MoS5,"(MoS3,78)",MoS3,78
+"(MoS5,48);(MoOS4,1);(MoS3,37)","(MoS5,26)",MoS5,"(MoOS5,91)",MoOS5,91
+"(MoOS4,66);(MoS3,83);(Mo2S9,22)","(MoS5,32)",MoS5,"(Mo4S24, 142)",Mo4S24,142
+"(Mo2S5,75);(Mo2S7,5);(MoS3,4)","(MoS5,29)",MoS5,"(Mo2S5,75)",Mo2S5,75
+"(MoOS2,15);(MoS,69);(MoS3,191)","(MoS5,37)",MoS5,"(MoOS2, 15)",MoOS2,15
+"(MoOS2,7);(MoS,159);(MoS3,267)","(MoS5,37)",MoS5,"(MoOS3,267)",MoOS3,267
+"(MoOS2,11);(MoS,94);(MoS3,199)","(MoS5,44)",MoS5,"(MoS2,100)",MoS2,100
+"(MoOS7,1);(MoOS5,10);(MoS4,4)","(MoS5,46)",MoS5,"(MoOS6, 9)",MoOS6,9
+"(MoS3,14);(MoS5,10);(MoS3,347)","(MoS5,51)",MoS5,"(MoS2, 500)",MoS2,500
+"(MoS3,122);(MoS5,819);(MoOS6,17)","(MoS5,58)",MoS5,"(MoOS6, 17)",MoOS6,17
+"(MoS5,9);(Mo2S8,43);(Mo2S10,18)","(MoS5,62)",MoS5,"(Mo2S11,20)",Mo2S11,20
+"(MoOS2,145);(MoOS4,2);(MoS3,72)","(MoS5,66)",MoS5,"(MoOS4,180)",MoOS4,180
+"(MoS3,147);(MoS5,5);(MoS3,4)","(MoS5,84)",MoS5,"(MoS4,34)",MoS4,34
+"(MoS2,96);(MoS4,58);(Mo2S9,2)","(MoS5,80)",MoS5,"(MoS2,96)",MoS2,96
+"(MoS3,18);(MoS5,3);(MoS3,95)","(MoS5,90)",MoS5,"(MoS4,110)",MoS4,110
+"(MoS3,798);(MoOS4,4);(MoS3,210)","(MoS5,90)",MoS5,"(MoOS3,42)",MoOS3,42
+"(MoOS3,26);(MoS3,745);(MoOS3,353)","(MoS5,114)",MoS5,"(MoS3, 745)",MoS3,745
+"(MoS3,34);(MoS5,13);(MoS3,31)","(MoS5,118)",MoS5,"(MoS2, 58)",MoS2,58
+"(MoOS5,12);(MoS4,280);(Mo2S9,29)","(MoS5,146)",MoS5,"(Mo2S9,29)",Mo2S9,29
+"(MoOS4,1124);(MoS3,4);(MoOS4,329)","(MoS5,134)",MoS5,"(MoOS4, 1044)",MoOS4,1044
+"(Mo2S5,32);(Mo2S7,1);(MoS3,8)","(MoS5,157)",MoS5,"(Mo4S6, 100)",Mo4S6,100
+"(MoS3,139);(Mo2S7,3);(MoS3,23)","(MoS5,158)",MoS5,"(MoS2,25)",MoS2,25
+"(MoS3,19);(MoS5,8);(MoS3,2)","(MoS5,207)",MoS5,"(MoS5,24)",MoS5,24
+"(MoS3,147);(MoOS4,9);(MoS3,125)","(MoS5,222)",MoS5,"(MoOS4,400)",MoOS4,400
+"(MoS3,145);(MoS5,1);(Mo2S6,3)","(MoS5,261)",MoS5,"(Mo2S6, 10)",Mo2S6,10
+"(MoS3,32);(MoOS4,3);(MoS3,85)","(MoS5,268)",MoS5,"(MoOS4, 85)",MoOS4,85
+"(MoOS6,13);(MoS5,2);(MoOS6,14)","(MoS5,323)",MoS5,"(MoOS4,Time)",,
+"(MoS4,84);(MoS5,1);(MoS3,70)","(MoS5,296)",MoS5,"(MoS3,70)",MoS3,70
+"(MoS3,378);(MoS5,14);(Mo2S7,10)","(MoS5,408)",MoS5,"(Mo4S6, 40)",Mo4S6,40
+"(Mo2S7,12);(Mo2S5,12);(Mo2S10,4)","(MoS5,361)",MoS5,"(Mo2S5,20)",Mo2S5,20
+"(MoS3,187);(MoS5,19);(MoS3,152)","(MoS5,496)",MoS5,"(MoS3, 360)",MoS3,360
+"(MoS4,275);(MoOS5,31);(MoS4,16)","(MoS5,470)",MoS5,"(MoOS5, 78)",MoOS5,78
+"(MoS4,40);(Mo2S10,2);(Mo2S8,15)","(MoS4,11)",MoS4,"(Mo3S12, 25)",Mo3S12,25
+"(Mo2S5,97);(MoS3,9);(Mo2S6,15)","(MoS4,12)",MoS4,"(Mo2S7,22)",Mo2S7,22
+"(Mo2S7,2);(MoS5,304);(Mo2S8,1)","(MoS4,14)",MoS4,"(Mo3S10, 500)",Mo3S10,500
+"(MoS4,3);(Mo2S10,2);(Mo2S8,9)","(MoS4,13)",MoS4,"(Mo2S10,5)",Mo2S10,5
+"(MoS2,36);(MoS4,7);(MoS2,43)","(MoS4,17)",MoS4,"(MoS4, 50)",MoS4,50
+"(MoS3,27);(MoOS4,53);(MoOS5,14)","(MoS4,17)",MoS4,"(MoOS6, 10)",MoOS6,10
+"(MoOS,96);(Mo2S5,10);(MoS3,8)","(MoS4,21)",MoS4,"(MoOS2,120)",MoOS2,120
+"(MoS4,2);(Mo2S6,26);(MoS2,162)","(MoS4,21)",MoS4,"(MoS2,162)",MoS2,162
+"(MoS4,105);(MoS2,1);(MoS3,1)","(MoS4,22)",MoS4,"(MoS3, 105)",MoS3,105
+"(Mo2S6,67);(MoS3,99);(MoS2,28)","(MoS4,24)",MoS4,"(Mo3S8, 114)",Mo3S8,114
+"(MoS4,8);(MoOS5,31);(Mo2S7,7)","(MoS4,31)",MoS4,"(Mo2S6, 10)",Mo2S6,10
+"(MoOS3,1);(MoS4,1);(MoOS5,2)","(MoS4,28)",MoS4,"(MoOS6,10)",MoOS6,10
+"(MoOS5,15);(MoS4,2);(MoOS5,2)","(MoS4,39)",MoS4,"(MoOS5, 25)",MoOS5,25
+"(MoS2,2);(MoOS3,35);(MoOS5,1)","(MoS4,34)",MoS4,"(MoOS4, 20)",MoOS4,20
+"(MoS2,51);(MoOS3,6);(MoOS5,1)","(MoS4,40)",MoS4,"(MoOS4, 2)",MoOS4,2
+"(Mo2S8,184);(MoOS5,16);(Mo2S8,12)","(MoS4,45)",MoS4,"(Mo6S8,28)",Mo6S8,28
+"(Mo2S8,7);(Mo2S6,25);(MoS2,142)","(MoS4,51)",MoS4,"(MoS2,142)",MoS2,142
+"(MoOS2,9);(MoOS4,1);(MoS3,122)","(MoS4,54)",MoS4,"(MoOS3,141)",MoOS3,141
+"(MoS2,2);(MoOS3,50);(MoS2,46)","(MoS4,63)",MoS4,"(MoS2,98)",MoS2,98
+"(Mo2S5,316);(MoS4,14);(Mo2S5,48)","(MoS4,68)",MoS4,"(Mo2S5,316)",Mo2S5,316
+"(Mo2S7,4);(MoS3,22);(Mo2S8,3)","(MoS4,75)",MoS4,"(Mo2S6,23)",Mo2S6,23
+"(MoS2,257);(Mo2S8,32);(Mo2S6,20)","(MoS4,77)",MoS4,"(Mo3S8,100)",Mo3S8,100
+"(MoOS5,3);(MoS4,2);(MoOS5,31)","(MoS4,93)",MoS4,"(MoOS5,34)",MoOS5,34
+"(MoOS,77);(MoOS3,1);(MoS2,75)","(MoS4,101)",MoS4,"(MoS2,142)",MoS2,142
+"(MoS3,98);(MoS5,5);(MoOS2,12)","(MoS4,119)",MoS4,"(MoS2,45)",MoS2,45
+"(MoS5,2);(MoS3,49);(MoS5,9)","(MoS4,124)",MoS4,"(MoS3,68)",MoS3,68
+"(MoOS,77);(MoOS3,5);(MoS2,57)","(MoS4,140)",MoS4,"(MoOS2,70)",MoOS2,70
+"(MoS3,444);(Mo2S5,150);(Mo2S8,5)","(MoS4,142)",MoS4,"(Mo2S8, 150)",Mo2S8,150
+"(MoOS5,35);(MoS4,2);(MoOS5,11)","(MoS4,166)",MoS4,"(MoOS4,35)",MoOS4,35
+"(MoOS3,131);(MoO2S2,458);(MoOS5,30)","(MoS4,157)",MoS4,"(MoOS4,250)",MoOS4,250
+"(MoS5,8);(MoS4,2);(MoOS4,4)","(MoS4,192)",MoS4,"(MoS4,10)",MoS4,10
+"(MoOS5,2);(MoS4,236);(MoOS5,6)","(MoS4,204)",MoS4,"(MoOS4, 104)",MoOS4,104
+"(MoS2,65);(MoOS3,6);(MoS2,29)","(MoS4,248)",MoS4,"(MoS3, 65 + 6 + 29)",MoS3,65
+"(Mo2S6,247);(Mo2S8,477);(Mo2S10,31)","(MoS4,242)",MoS4,"(Mo4S12, 1087)",Mo4S12,1087
+"(MoOS3,1);(MoS4,1);(MoOS5,4)","(MoS4,279)",MoS4,"(Mo4S8,6)",Mo4S8,6
+"(MoS2,110);(MoS4,376);(Mo2S10,4)","(MoS4,297)",MoS4,"(Mo2S6, 190)",Mo2S6,190
+"(Mo2S5,106);(Mo2S7,92);(Mo2S9,79)","(MoS4,384)",MoS4,"(Mo2S11,68)",Mo2S11,68
+"(MoOS3,6);(MoS2,73);(Mo2S8,100)","(MoS4,367)",MoS4,"(Mo4S9, 60)",Mo4S9,60
+"(MoS2,4);(MoOS3,19);(MoS2,46)","(MoS4,459)",MoS4,"(MoS2,68)",MoS2,68
+"(MoS,125);(MoS3,7);(MoS2,113)","(MoS4,428)",MoS4,"(MoS2,200)",MoS2,200
+"(MoS2,2);(MoOS3,176);(MoO2S2,5)","(MoS3,11)",MoS3,"(MoO2S2,5)",MoO2S2,5
+"(MoS,86);(MoOS2,2);(MoS,51)","(MoS3,10)",MoS3,"(MoOS2, 139)",MoOS2,139
+"(MoOS2,29);(MoOS3,15);(MoS,21)","(MoS3,13)",MoS3,"(MoOS2,29)",MoOS2,29
+"(MoS5,2);(MoS3,104);(MoS5,13)","(MoS3,13)",MoS3,"(MoS5,129)",MoS5,129
+"(MoS4,16);(MoS3,58);(Mo2S6,15)","(MoS3,15)",MoS3,"(MoS4,16)",MoS4,16
+"(MoS,7);(MoS3,99);(MoOS4,2)","(MoS3,16)",MoS3,"(MoS2,100)",MoS2,100
+"(MoS2,37);(MoS3,2);(MoS,55)","(MoS3,21)",MoS3,"(MoS4,23)",MoS4,23
+"(MoO,118);(MoOS2,3);(MoS,21)","(MoS3,21)",MoS3,"(MoS2,36)",MoS2,36
+"(MoS,89);(MoS3,247);(MoS5,18)","(MoS3,24)",MoS3,"(MoS3, 247)",MoS3,247
+"(MoO,56);(MoOS2,4);(MoS,88)","(MoS3,22)",MoS3,"(MoOS2,100)",MoOS2,100
+"(MoO,92);(MoOS2,3);(MoS,44)","(MoS3,27)",MoS3,"(MoS2, 67)",MoS2,67
+"(MoOS4,184);(MoS3,173);(MoOS4,48)","(MoS3,30)",MoS3,"(MoOS4,184+173+48)",MoOS4,184
+"(MoO2S,22);(MoS,5);(MoO2S,8)","(MoS3,38)",MoS3,"(MoO2,20), (MoS2,13)",MoO2,20
+"(MoS,91);(MoS3,421);(Mo2S5,47)","(MoS3,34)",MoS3,"(Mo4S6,1000)",Mo4S6,1000
+"(MoS,253);(MoS3,66);(MoS5,7)","(MoS3,47)",MoS3,"(MoS2,100)",MoS2,100
+"(MoOS4,4);(MoS3,17);(MoOS4,9)","(MoS3,43)",MoS3,"(MoS4, 30)",MoS4,30
+"(MoS,95);(MoS3,165);(MoOS4,9)","(MoS3,56)",MoS3,"(MoOS4,34)",MoOS4,34
+"(MoOS4,12);(MoS3,2);(MoS5,6)","(MoS3,56)",MoS3,"(MoOS4,14)",MoOS4,14
+"(MoOS2,2);(MoS2,1);(MoS,51)","(MoS3,63)",MoS3,"(MoS2,53)",MoS2,53
+"(MoS,20);(MoS3,142);(MoS5,3)","(MoS3,61)",MoS3,"(MoS2,100)",MoS2,100
+"(MoO,26);(MoOS2,3);(MoS,118)","(MoS3,82)",MoS3,"(MoS2,142)",MoS2,142
+"(MoOS4,7);(MoS3,2);(MoS5,3)","(MoS3,72)",MoS3,"(MoOS4,21)",MoOS4,21
+"(MoS,4);(MoS2,26);(Mo2S5,4)","(MoS3,98)",MoS3,"(Mo6S11,28)",Mo6S11,28
+"(MoS,3);(MoS3,9);(MoS,2)","(MoS3,89)",MoS3,"(Mo4S6,14)",Mo4S6,14
+"(MoS5,5);(MoS3,4);(MoOS4,26)","(MoS3,108)",MoS3,"(MoOS4,26)",MoOS4,26
+"(MoS3,2);(Mo2S7,21);(Mo2S6,38)","(MoS3,112)",MoS3,"(Mo4S9,42)",Mo4S9,42
+"(MoS3,2);(MoS2,1);(Mo2S7,5)","(MoS3,148)",MoS3,"(Mo2S7,5)",Mo2S7,5
+"(MoS3,19);(MoOS,17);(MoS,158)","(MoS3,139)",MoS3,"(MoOS2, 201)",MoOS2,201
+"(MoOS2,74);(MoOS4,3);(MoS4,1)","(MoS3,163)",MoS3,"(MoOS4,64)",MoOS4,64
+"(MoOS2,81);(MoS3,46);(MoOS4,2)","(MoS3,177)",MoS3,"(MoS3,46)",MoS3,46
+"(MoOS3,5);(MoS2,34);(MoS4,5)","(MoS3,189)",MoS3,"(MoOS3,50)",MoOS3,50
+"(MoS,17);(MoO,24);(MoS2,11)","(MoS3,207)",MoS3,"(MoS2,14)",MoS2,14
+"(MoS,82);(MoS3,3);(MoS5,2)","(MoS3,252)",MoS3,"(MoS5,65)",MoS5,65
+"(MoS2,43);(MoS4,152);(MoS5,1)","(MoS3,271)",MoS3,"(MoS2,43)",MoS2,43
+"(MoS,38);(MoOS2,3);(MoS,355)","(MoS3,295)",MoS3,"(MoS2,420)",MoS2,420
+"(MoS4,7);(MoS2,185);(MoS5,22)","(MoS3,312)",MoS3,"(MoS3,10)",MoS3,10
+"(MoS2,277);(MoS4,26);(Mo2S6,22)","(MoS3,385)",MoS3,"(Mo3S8, 15)",Mo3S8,15
+"(MoS4,25);(MoS2,2);(MoS4,42)","(MoS3,407)",MoS3,"(MoS2,47)",MoS2,47
+"(MoS,93);(MoOS2,34);(MoS,42)","(MoS3,429)",MoS3,"(MoS2,50)",MoS2,50
+"(MoOS4,53);(MoOS2,87);(MoS4,6)","(MoS3,415)",MoS3,"(MoS4,53)",MoS4,53
+"(MoS2,3);(MoS3,1);(MoS4,21)","(MoS2,11)",MoS2,"(MoS2, 22)",MoS2,22
+"(MoOS2,98);(MoOS4,3);(MoOS2,60)","(MoS2,10)",MoS2,"(MoOS2, 98)",MoOS2,98
+"(MoOS2,1);(MoS,56);(Mo,2)","(MoS2,13)",MoS2,"(MoOS2,65)",MoOS2,65
+"(MoS,4);(MoS2,11);(MoS,2)","(MoS2,14)",MoS2,"(MoS2,13)",MoS2,13
+"(MoS3,17);(MoS,16);(MoS3,6)","(MoS2,17)",MoS2,"(MoO2S2,22), (MoO2S,18)",MoO2S2,22
+"(MoO,3);(Mo,4);(MoO,323)","(MoS2,17)",MoS2,"(MoS2,100)",MoS2,100
+"(MoS3,51);(MoS2,101);(MoS4,2)","(MoS2,19)",MoS2,"(MoS2, 101)",MoS2,101
+"(Mo,32);(MoS,3);(Mo,1)","(MoS2,19)",MoS2,"(MoS2,35)",MoS2,35
+"(MoOS3,3);(MoS2,12);(MoS4,16)","(MoS2,25)",MoS2,"(MoOS4,20)",MoOS4,20
+"(MoO,132);(MoOS2,1);(MoS,605)","(MoS2,22)",MoS2,"(MoS2, 605)",MoS2,605
+"(MoS4,4);(MoS2,23);(MoS4,2)","(MoS2,29)",MoS2,"(Mo2S8, 15)",Mo2S8,15
+"(MoOS3,1);(MoOS,26);(MoOS3,1)","(MoS2,28)",MoS2,"(MoOS3, 45)",MoOS3,45
+"(MoS4,3);(MoS2,54);(MoOS3,2)","(MoS2,38)",MoS2,"(MoOS4,100)",MoOS4,100
+"(MoOS3,2);(MoS2,2);(MoOS3,9)","(MoS2,35)",MoS2,"(MoOS3, 11)",MoOS3,11
+"(MoOS3,24);(MoOS,37);(MoS3,14)","(MoS2,40)",MoS2,"(MoS3, 74)",MoS3,74
+"(MoS,1);(MoS3,4);(MoS5,1)","(MoS2,41)",MoS2,"(MoS2,5)",MoS2,5
+"(MoS,7);(MoS2,37);(MoOS3,6)","(MoS2,50)",MoS2,"(MoOS3, 50)",MoOS3,50
+"(MoOS2,6);(MoS,13);(MoS3,44)","(MoS2,51)",MoS2,"(MoS2,33)",MoS2,33
+"(MoOS3,7);(MoS2,83);(MoOS3,57)","(MoS2,63)",MoS2,"(MoOS3, 47)",MoOS3,47
+"(MoOS3,3);(MoS2,2);(MoS4,5)","(MoS2,67)",MoS2,"(MoOS4,11)",MoOS4,11
+"(MoO,407);(MoOS2,5);(MoS,97)","(MoS2,80)",MoS2,"(MoS2,142)",MoS2,142
+"(Mo,2);(MoOS,8);(Mo,2)","(MoS2,78)",MoS2,"(MoOS2,34)",MoOS2,34
+"(MoOS3,2);(MoS2,2);(MoS4,13)","(MoS2,102)",MoS2,"(MoOS3, 11)",MoOS3,11
+"(MoOS4,1);(MoS3,46);(Mo2S5,8)","(MoS2,92)",MoS2,"(Mo4S6,50)",Mo4S6,50
+"(Mo2S6,24);(Mo2S7,4);(Mo2S6,17)","(MoS2,112)",MoS2,"(Mo2S6,40)",Mo2S6,40
+"(MoS2,317);(MoOS3,8);(MoS4,2)","(MoS2,114)",MoS2,"(MoS5, 10)",MoS5,10
+"(MoOS,31);(Mo,1);(MoOS3,1)","(MoS2,153)",MoS2,"(MoOS2,15)",MoOS2,15
+"(MoS,90);(Mo2S5,52);(MoS,125)","(MoS2,132)",MoS2,"(Mo2S6,150)",Mo2S6,150
+"(MoOS2,7);(MoS,148);(MoS3,41)","(MoS2,164)",MoS2,"(MoOS2,7)",MoOS2,7
+"(MoOS3,2);(MoS2,61);(MoS4,4)","(MoS2,161)",MoS2,"(MoOS4,100)",MoOS4,100
+"(MoS4,15);(MoS2,61);(MoS4,33)","(MoS2,194)",MoS2,"(MoS2,61)",MoS2,61
+"(MoO2S2,7);(MoOS,42);(MoOS3,1)","(MoS2,196)",MoS2,"(MoO2S2,7)",MoO2S2,7
+"(MoOS3,4);(MoS2,5);(MoOS3,3)","(MoS2,254)",MoS2,"(MoS2,10)",MoS2,10
+"(MoOS2,2);(MoS,63);(MoS3,84)","(MoS2,249)",MoS2,"(MoS2,55)",MoS2,55
+"(MoS3,1);(MoS,52);(MoS4,2)","(MoS2,298)",MoS2,"(MoS2,50)",MoS2,50
+"(Mo,2);(MoS2,196);(MoS4,6)","(MoS2,282)",MoS2,"(MoS4, 204)",MoS4,204
+"(Mo,2);(MoOS,6);(Mo,22)","(MoS2,379)",MoS2,"(MoOS,26)",MoOS,26
+"(MoOS2,46);(MoS2,93);(MoS4,13)","(MoS2,358)",MoS2,"(MoOS4, 24)",MoOS4,24
+"(MoS2,1);(MoS3,91);(MoOS3,1)","(MoS2,472)",MoS2,"(MoS4, 61)",MoS4,61
+"(MoOS,155);(MoOS2,175);(MoO,7)","(MoS2,420)",MoS2,"(MoO2S2, 220)",MoO2S2,220
+"(MoOS,15);(MoS,3);(MoOS,35)","(MoS,12)",MoS,"(MoOS2, 50)",MoOS2,50
+"(MoO3,2);(MoO,17);(MoOS2,1)","(MoS,11)",MoS,"(MoOS2,20)",MoOS2,20
+"(MoS2,2);(MoOS4,4);(MoS3,44)","(MoS,14)",MoS,"(MoOS4,44)",MoOS4,44
+"(MoS3,2);(MoS,81);(MoOS2,2)","(MoS,13)",MoS,"(MoS2,100)",MoS2,100
+"(MoO2,33);(MoO,40);(MoOS2,17)","(MoS,16)",MoS,"(MoOS2,17)",MoOS2,17
+"(MoO,18);(MoS2,3);(MoOS2,1)","(MoS,16)",MoS,"(MoOS2,15)",MoOS2,15
+"(MoO2,5);(MoO,158);(MoOS2,1)","(MoS,21)",MoS,"(MoOS2,160)",MoOS2,160
+"(MoO2S,2);(MoS,53);(MoOS2,2)","(MoS,19)",MoS,"(Mo3S4,70)",Mo3S4,70
+"(MoOS3,1);(MoOS2,5);(MoS2,2)","(MoS,26)",MoS,"(MoS3,12)",MoS3,12
+"(MoOS2,10);(MoS,2);(MoOS2,3)","(MoS,26)",MoS,"(MoOS2,20)",MoOS2,20
+"(MoS,2);(Mo,6);(MoOS,12)","(MoS,28)",MoS,"(MoOS2,18)",MoOS2,18
+"(MoO2,2);(MoO,144);(MoOS2,13)","(MoS,27)",MoS,"(MoO2S2, 25)",MoO2S2,25
+"(MoOS,1);(MoO,125);(MoOS2,12)","(MoS,36)",MoS,"(MoOS2,25)",MoOS2,25
+"(MoOS,1);(MoS2,1);(MoOS2,3)","(MoS,33)",MoS,"(MoS2,4)",MoS2,4
+"(MoOS,24);(MoS,14);(MoOS,35)","(MoS,45)",MoS,"(MoS2, 63)",MoS2,63
+"(MoO2,37);(MoO,41);(MoOS2,12)","(MoS,41)",MoS,"(MoS2, 12)",MoS2,12
+"(MoS4,3);(MoS2,93);(MoS3,1)","(MoS,52)",MoS,"(MoS4,110)",MoS4,110
+"(MoOS2,5);(MoS,38);(MoS3,19)","(MoS,51)",MoS,"(MoOS2, 80)",MoOS2,80
+"(MoOS2,2);(MoS,168);(MoS3,5)","(MoS,63)",MoS,"(MoOS2,168)",MoOS2,168
+"(MoO,1);(Mo,135);(MoS2,1)","(MoS,65)",MoS,"(MoS2,138)",MoS2,138
+"(MoOS2,10);(MoS,23);(MoS3,12)","(MoS,72)",MoS,"(MoOS2,10)",MoOS2,10
+"(MoS3,22);(MoS,155);(MoOS2,6)","(MoS,71)",MoS,"(MoOS3, 45)",MoOS3,45
+"(MoS2,136);(MoOS,261);(MoOS2,1)","(MoS,101)",MoS,"(MoS2,136)",MoS2,136
+"(MoOS,12);(MoOS2,20);(MoS2,4)","(MoS,96)",MoS,"(MoOS2,32)",MoOS2,32
+"(MoO2S,4);(MoO,39);(MoOS2,2)","(MoS,122)",MoS,"(MoOS2,21)",MoOS2,21
+"(MoO,1);(MoS,19);(MoOS2,5)","(MoS,110)",MoS,"(MoOS2,64)",MoOS2,64
+"(MoO2,15);(MoO,3);(MoO2,7)","(MoS,150)",MoS,"(MoO2.S, 11)",S,11
+"(MoO2S,4);(MoO,18);(MoOS2,5)","(MoS,135)",MoS,"(MoOS2,22)",MoOS2,22
+"(MoO2,33);(MoO,78);(MoOS2,3)","(MoS,161)",MoS,"(MoOS2, 33+78)",MoOS2,33
+"(MoOS,182);(MoOS3,6);(MoS2,72)","(MoS,165)",MoS,"(MoOS2, 250)",MoOS2,250
+"(MoOS2,21);(MoS,3);(MoS3,24)","(MoS,205)",MoS,"(MoOS2,56)",MoOS2,56
+"(MoO,1);(MoS,96);(MoOS2,4)","(MoS,209)",MoS,"(MoS2, 92)",MoS2,92
+"(MoO2,58);(MoO,57);(MoOS2,4)","(MoS,260)",MoS,"(MoOS2, 68)",MoOS2,68
+"(MoOS2,1);(MoS,2);(MoOS2,8)","(MoS,232)",MoS,"(MoOS2,11)",MoOS2,11
+"(MoOS2,6);(MoS,276);(MoOS2,3)","(MoS,296)",MoS,"(MoOS2, 33)",MoOS2,33
+"(MoS2,1);(MoS,27);(MoS2,2)","(MoS,306)",MoS,"(MoS3,10)",MoS3,10
+"(MoOS2,12);(MoS,5);(MoOS2,14)","(MoS,391)",MoS,"(MoOS2,26)",MoOS2,26
+"(MoOS2,87);(MoS,38);(MoOS2,3)","(MoS,355)",MoS,"(MoOS2,100)",MoOS2,100
+"(MoO2,40);(MoO,174);(MoOS2,15)","(MoS,415)",MoS,"(MoOS2,134)",MoOS2,134
+"(MoOS2,4);(MoS,46);(MoS3,2)","(MoS,413)",MoS,"(MoOS3,22)",MoOS3,22
+"(MoS,69);(MoOS,3);(Mo,32)","(MoO,11)",MoO,"(MoOS2,100)",MoOS2,100
+"(MoS,16);(MoOS,9);(MoS,9)","(MoO,10)",MoO,"(MoS2, 22)",MoS2,22
+"(MoOS2,7);(MoS,69);(Mo,1)","(MoO,13)",MoO,"(MoOS2,70)",MoOS2,70
+"(MoO2,48);(MoO,2);(MoOS2,2)","(MoO,13)",MoO,"(MoOS2,50)",MoOS2,50
+"(MoOS,77);(MoO3,5);(MoOS,7)","(MoO,16)",MoO,"(MoOS2,140)",MoOS2,140
+"(MoOS2,33);(MoS,4);(MoOS2,2)","(MoO,15)",MoO,"(MoOS2, 39)",MoOS2,39
+"(MoO2,12);(MoO,2);(MoO2,21)","(MoO,18)",MoO,"(MoO2.S2,58)",S2,58
+"(MoO2,36);(MoO,3);(MoO2,29)","(MoO,20)",MoO,"(MoO2/S2, 100)",S2,100
+"(MoO2,23);(MoO,109);(Mo,43)","(MoO,24)",MoO,"(Mo4O11,300)",Mo4O11,300
+"(MoOS2,5);(MoS,7);(MoOS2,7)","(MoO,24)",MoO,"(MoS2,10)",MoS2,10
+"(MoS,9);(MoOS,2);(MoO2S,4)","(MoO,27)",MoO,"(MoO2S2,11)",MoO2S2,11
+"(MoO,150);(MoS,1);(Mo,1)","(MoO,27)",MoO,"(Mo3O9S2, 200)",Mo3O9S2,200
+"(MoO,132);(MoS2,3);(MoS,5)","(MoO,34)",MoO,"(MoS2,38)",MoS2,38
+"(MoO,2);(MoO2,14);(MoO2S,16)","(MoO,34)",MoO,"(MoOS2, 20)",MoOS2,20
+"(MoO2,3);(MoO,3);(MoO2,3)","(MoO,44)",MoO,"(Mo3O9, 15)",Mo3O9,15
+"(MoO2,137);(MoO3,2);(MoO2,31)","(MoO,43)",MoO,"(MoO2.S, 137)",S,137
+"(MoO2,6);(MoO,1);(Mo,3)","(MoO,56)",MoO,"(MoS2, 11)",MoS2,11
+"(MoO2,43);(MoO,22);(MoO2,11)","(MoO,58)",MoO,"(MoO3,33)",MoO3,33
+"(Mo,14);(MoO,7);(Mo,10)","(MoO,70)",MoO,"(MoO2, 21)",MoO2,21
+"(MoO2,88);(MoO2S,22);(MoOS,10)","(MoO,68)",MoO,"(MoOS2,142)",MoOS2,142
+"(Mo,36);(MoO,290);(MoO2S,4)","(MoO,74)",MoO,"(MoOS2, 20)",MoOS2,20
+"(MoO3,1);(MoO,319);(MoO2S,3)","(MoO,82)",MoO,"(MoOS2,25)",MoOS2,25
+"(MoO2,2);(MoO,29);(MoO2,3)","(MoO,93)",MoO,"(MoO3,35)",MoO3,35
+"(MoO2,19);(MoO,2);(MoO2,13)","(MoO,94)",MoO,"(Mo4O6,22)",Mo4O6,22
+"(MoO2,62);(MoO,3);(MoO2,2)","(MoO,124)",MoO,"(MoO3,20)",MoO3,20
+"(MoO2,114);(MoO,90);(MoO2S,6)","(MoO,108)",MoO,"(MoOS2, 124)",MoOS2,124
+"(MoO2S,11);(MoO,2);(MoO2S,10)","(MoO,140)",MoO,"(MoO2S2,22)",MoO2S2,22
+"(MoO2S,10);(MoO,140);(MoO3,3)","(MoO,133)",MoO,"(MoO3S, 100)",MoO3S,100
+"(MoO2S,2);(MoO,2);(MoO2S,2)","(MoO,159)",MoO,"(MoO2S,6)",MoO2S,6
+"(MoO,4);(MoO2,36);(MoO2S,1)","(MoO,161)",MoO,"(MoO2S2, 51)",MoO2S2,51
+"(MoO2,13);(MoO,2);(MoO2,7)","(MoO,222)",MoO,"(MoO2,25)",MoO2,25
+"(MoO2,2);(MoO,198);(Mo,1)","(MoO,209)",MoO,"(MoS2,201)",MoS2,201
+"(MoO2,6);(MoO,214);(MoO2S,4)","(MoO,235)",MoO,"(MoOS2, 214)",MoOS2,214
+"(MoO2,59);(MoO,2);(MoO2,2)","(MoO,243)",MoO,"(MoO3,54)",MoO3,54
+"(MoO2S,10);(MoO,197);(MoO2S,2)","(MoO,315)",MoO,"(MoO2S2,120)",MoO2S2,120
+"(Mo,2);(MoO,12);(MoO2,21)","(MoO,316)",MoO,"(MoO3,35)",MoO3,35
+"(MoO2,86);(MoO,2);(MoO2,16)","(MoO,374)",MoO,"(MoO3,100)",MoO3,100
+"(MoO2S,14);(MoO,16);(MoO2S,3)","(MoO,405)",MoO,"(MoOS, 23)",MoOS,23
+"(MoOS2,2);(MoS,60);(MoOS,1)","(MoO,438)",MoO,"(MoOS2,55)",MoOS2,55
+"(MoO2,22);(MoO,2);(MoO2,11)","(MoO,417)",MoO,"(MoS2,33), where the duration is the sum of the input duration: 22 + 2 + 11 = 35 pic seconds.",MoS2,33
+"(MoO,2);(MoO2,7);(MoO,6)","(MoO2,11)",MoO2,"(MoO2,11)",MoO2,11
+"(Mo,8);(MoO2,14);(Mo,3)","(MoO2,11)",MoO2,"(MoO2, 25)",MoO2,25
+"(MoO3,5);(MoO2,48);(MoO,4)","(MoO2,14)",MoO2,"(Mo4O12,22)",Mo4O12,22
+"(MoO3,2);(MoO2,43);(MoO,2)","(MoO2,14)",MoO2,"(MoS2, 25)",MoS2,25
+"(MoO,4);(MoO2,19);(MoO,2)","(MoO2,16)",MoO2,"(MoO3,21)",MoO3,21
+"(MoO,3);(MoO2,11);(MoO,6)","(MoO2,15)",MoO2,"(MoS2, 13)",MoS2,13
+"(MoO3,11);(MoO2,22);(MoO,2)","(MoO2,18)",MoO2,"(Mo4O12, 44)",Mo4O12,44
+"(Mo,2);(MoO2,13);(MoO,2)","(MoO2,21)",MoO2,"(MoO3,21)",MoO3,21
+"(MoOS2,6);(MoOS4,2);(MoOS2,22)","(MoO2,23)",MoO2,"(MoS2,50)",MoS2,50
+"(MoO2,5);(MoO,24);(MoO2S2,1)","(MoO2,26)",MoO2,"(MoOS2,14)",MoOS2,14
+"(MoO,2);(MoO2,50);(MoO,2)","(MoO2,29)",MoO2,"(MoO2,80)",MoO2,80
+"(MoO,2);(MoO2,2);(MoO,4)","(MoO2,32)",MoO2,"(MoS2,20)",MoS2,20
+"(MoO,2);(MoO2,20);(MoO,21)","(MoO2,39)",MoO2,"(MoO3,23)",MoO3,23
+"(MoO2S2,3);(MoO2,9);(MoO3,2)","(MoO2,35)",MoO2,"(MoO2S2,20)",MoO2S2,20
+"(MoO3,2);(MoO2,69);(MoO,2)","(MoO2,47)",MoO2,"(MoS2,85)",MoS2,85
+"(MoO,54);(MoO2,7);(MoO3,2)","(MoO2,45)",MoO2,"(MoO3,95)",MoO3,95
+"(MoO2,6);(MoOS,3);(MoS,10)","(MoO2,52)",MoO2,"(MoS2,13)",MoS2,13
+"(MoO2S,1);(MoO2,91);(MoO,2)","(MoO2,48)",MoO2,"(MoO2S,120)",MoO2S,120
+"(MoO3,5);(MoO2,113);(MoO3,6)","(MoO2,60)",MoO2,"(MoS2,120)",MoS2,120
+"(MoO3,3);(MoO2,49);(MoO3,3)","(MoO2,61)",MoO2,"(MoS2,100)",MoS2,100
+"(MoO,2);(MoO2,47);(MoO,3)","(MoO2,81)",MoO2,"(MoO3,47)",MoO3,47
+"(MoO3,4);(MoO2,59);(MoO,4)","(MoO2,73)",MoO2,"(MoS2, 23)",MoS2,23
+"(MoO,12);(MoO2S,2);(MoO,228)","(MoO2,96)",MoO2,"(MoOS2, 248)",MoOS2,248
+"(Mo,2);(MoOS,33);(MoO2S,1)","(MoO2,91)",MoO2,"(MoO2S2,50)",MoO2S2,50
+"(MoOS2,5);(MoOS,44);(MoO,1)","(MoO2,106)",MoO2,"(MoOS2, 60)",MoOS2,60
+"(MoO2S2,3);(MoO2,53);(MoO,2)","(MoO2,120)",MoO2,"(MoO3S2, 55)",MoO3S2,55
+"(MoO2S2,2);(MoOS,57);(MoO2S,4)","(MoO2,148)",MoO2,"(MoO2S2,65)",MoO2S2,65
+"(MoO2,68);(MoO,1);(MoO2S2,1)","(MoO2,128)",MoO2,"(MoOS2,68)",MoOS2,68
+"(MoOS,248);(MoO2S,17);(MoO,215)","(MoO2,185)",MoO2,"(MoOS2,500)",MoOS2,500
+"(MoO,3);(MoO2,3);(MoO,2)","(MoO2,161)",MoO2,"(MoO3,4)",MoO3,4
+"(MoOS,4);(MoO2,15);(MoO,12)","(MoO2,225)",MoO2,"(MoS2, 10)",MoS2,10
+"(MoO,1);(MoO2,2);(MoO3,3)","(MoO2,225)",MoO2,"(MoO4,10)",MoO4,10
+"(MoO2,75);(MoO2S2,1);(MoOS,24)","(MoO2,243)",MoO2,"(MoOS2, 49)",MoOS2,49
+"(MoO2S2,2);(MoO2S,8);(MoO,4)","(MoO2,275)",MoO2,"(MoO2S2,10)",MoO2S2,10
+"(MoO3,4);(MoO2,33);(MoO2S2,6)","(MoO2,325)",MoO2,"(MoOS2, 18)",MoOS2,18
+"(MoO2S2,2);(MoS2,4);(MoO2S2,1)","(MoO2,387)",MoO2,"(MoS2,7)",MoS2,7
+"(MoO2S2,7);(MoOS,109);(MoO2S2,3)","(MoO2,418)",MoO2,"(MoOS2, 123)",MoOS2,123
+"(Mo,14);(MoO2,9);(Mo,4)","(MoO2,18)",MoO2,"(MoS2, 50)",MoS2,50
+"(MoO2S2,1);(MoO2,21);(MoO,3)","(MoO2,16)",MoO2,"(MoO2S2, 55)",MoO2S2,55
+"(MoO,6);(MoO2,3);(MoO3,10)","(MoO2,204)",MoO2,"(MoO3,50)",MoO3,50
+"(MoS3,12);(MoS5,2);(MoS3,40)","(MoOS,10)",MoOS,"(MoS2,52)",MoS2,52
+"(Mo2S5,280);(MoS2,8);(MoOS2,26)","(MoOS,12)",MoOS,"(Mo4S6, 154)",Mo4S6,154
+"(MoOS,27);(MoOS3,4);(MoOS2,3)","(MoOS,13)",MoOS,"(MoOS3,110)",MoOS3,110
+"(MoO,15);(MoO2,5);(MoS,9)","(MoOS,14)",MoOS,"(MoS2,14)",MoS2,14
+"(MoO2,8);(MoOS,10);(MoO2S2,3)","(MoOS,16)",MoOS,"(MoO2S2,23)",MoO2S2,23
+"(MoS2,76);(MoOS3,8);(MoOS2,141)","(MoOS,16)",MoOS,"(Mo4O12S4, 365)",Mo4O12S4,365
+"(MoO,3);(MoOS,113);(Mo,2)","(MoOS,19)",MoOS,"(MoOS, 113)",MoOS,113
+"(MoS,24);(MoS2,1);(Mo,56)","(MoOS,20)",MoOS,"(MoS2,65)",MoS2,65
+"(MoOS,137);(MoS,1);(Mo,2)","(MoOS,25)",MoOS,"(MoOS2,365)",MoOS2,365
+"(MoO2,306);(MoO,1);(MoO2S,1)","(MoOS,23)",MoOS,"(MoOS2, �)",,
+"(MoOS5,9);(MoOS3,698);(MoS,70)","(MoOS,30)",MoOS,"(MoOS4,500)",MoOS4,500
+"(Mo,2);(MoOS,27);(Mo,2)","(MoOS,27)",MoOS,"(MoOS, 35)",MoOS,35
+"(MoOS2,39);(MoS3,9);(MoS2,2)","(MoOS,34)",MoOS,"(MoOS2,49)",MoOS2,49
+"(MoO2S2,8);(MoOS,44);(MoO2S2,2)","(MoOS,33)",MoOS,"(MoOS2,50)",MoOS2,50
+"(MoO,28);(MoOS2,6);(MoS3,5)","(MoOS,46)",MoOS,"(MoS2,22)",MoS2,22
+"(MoOS2,1);(MoOS,163);(MoOS3,5)","(MoOS,41)",MoOS,"(MoOS3,163)",MoOS3,163
+"(MoO2S2,15);(MoOS,2);(MoO2S2,7)","(MoOS,52)",MoOS,"(MoOS2, 20)",MoOS2,20
+"(MoS2,10);(Mo,14);(MoO,3)","(MoOS,51)",MoOS,"(MoOS2,22)",MoOS2,22
+"(MoOS,31);(MoO,1);(Mo,6)","(MoOS,59)",MoOS,"(MoOS, 34)",MoOS,34
+"(MoO3,4);(MoO2,43);(MoO2S2,5)","(MoOS,61)",MoOS,"(MoO2S2,22)",MoO2S2,22
+"(Mo2S5,6);(MoS2,6);(MoS4,43)","(MoOS,71)",MoOS,"(Mo4S12, 115)",Mo4S12,115
+"(Mo,9);(MoOS,67);(Mo,4)","(MoOS,72)",MoOS,"(MoOS,70)",MoOS,70
+"(MoOS,10);(MoS,18);(MoS2,2)","(MoOS,104)",MoOS,"(MoOS2,22)",MoOS2,22
+"(MoO,5);(MoOS,31);(MoOS3,9)","(MoOS,102)",MoOS,"(MoOS2, 22)",MoOS2,22
+"(Mo,2);(MoOS,19);(Mo,2)","(MoOS,120)",MoOS,"(MoOS, 21)",MoOS,21
+"(MoO2S2,26);(MoOS,4);(MoO2S2,25)","(MoOS,125)",MoOS,"(MoOS2, 55)",MoOS2,55
+"(MoS2,1);(MoO,58);(MoOS3,2)","(MoOS,136)",MoOS,"(MoOS3,59)",MoOS3,59
+"(MoO2,1);(MoO3,9);(MoO2,117)","(MoOS,150)",MoOS,"(MoOS2,201)",MoOS2,201
+"(MoOS3,4);(MoOS,58);(MoO2S2,28)","(MoOS,184)",MoOS,"(MoO3S2, 65)",MoO3S2,65
+"(MoO2,13);(MoO,84);(MoOS2,4)","(MoOS,161)",MoOS,"(MoOS2,69)",MoOS2,69
+"(MoOS2,76);(MoS,2);(MoOS2,399)","(MoOS,201)",MoOS,"(MoOS2, 475)",MoOS2,475
+"(MoOS2,6);(MoS,7);(MoOS2,13)","(MoOS,217)",MoOS,"(MoOS2,26)",MoOS2,26
+"(MoO2,8);(MoO,2);(MoO2,41)","(MoOS,242)",MoOS,"(MoO3,55)",MoO3,55
+"(MoO2,3);(MoO,144);(MoS,37)","(MoOS,241)",MoOS,"(MoOS, 37)",MoOS,37
+"(MoS4,1);(MoS2,215);(MoOS3,16)","(MoOS,324)",MoOS,"(MoOS4,300)",MoOS4,300
+"(Mo,1);(MoOS,11);(MoS,2)","(MoOS,301)",MoOS,"(MoS2,14)",MoS2,14
+"(MoO2S,48);(Mo,2);(MoO2S,43)","(MoOS,353)",MoOS,"(Mo2O4S2,95)",Mo2O4S2,95
+"(MoO,1);(MoO2S2,1);(MoO2,1)","(MoOS,352)",MoOS,"(MoOS2, 5)",MoOS2,5
+"(Mo,111);(MoS2,202);(MoOS3,1)","(MoOS,459)",MoOS,"(MoOS3,101)",MoOS3,101
+"(MoS3,27);(MoS2,60);(MoS3,1)","(MoOS,442)",MoOS,"(MoS2, 63)",MoS2,63
+"(MoO,2);(MoO2,8);(MoO,2)","(MoOS2,10)",MoOS2,"(MoO3,10)",MoO3,10
+"(MoO,5);(MoO2,47);(MoO,55)","(MoOS2,10)",MoOS2,"(MoO3,90)",MoO3,90
+"(MoS3,1);(MoS2,83);(MoO,224)","(MoOS2,14)",MoOS2,"(MoS2, 124)",MoS2,124
+"(MoS3,52);(MoOS2,31);(MoS,2)","(MoOS2,14)",MoOS2,"(MoOS3, 63)",MoOS3,63
+"(MoOS4,13);(MoOS2,125);(MoOS4,3)","(MoOS2,16)",MoOS2,"(MoS2,200)",MoS2,200
+"(MoO3,3);(MoO2,73);(MoO,57)","(MoOS2,16)",MoOS2,"(MoS2, 15)",MoS2,15
+"(Mo2S6,134);(Mo2S5,149);(MoS3,5)","(MoOS2,19)",MoOS2,"(Mo2S6,134)",Mo2S6,134
+"(MoS2,4);(MoOS,2);(MoS,2)","(MoOS2,20)",MoOS2,"(MoS2,6)",MoS2,6
+"(MoO2,3);(MoO2S2,3);(MoOS,184)","(MoOS2,25)",MoOS2,"(MoOS2, 184)",MoOS2,184
+"(MoO,4);(MoO2,6);(MoO,31)","(MoOS2,24)",MoOS2,"(MoO2,35)",MoO2,35
+"(MoO,35);(MoOS2,4);(MoS,2)","(MoOS2,27)",MoOS2,"(MoS2,50)",MoS2,50
+"(MoO,36);(MoO2S,2);(MoO,144)","(MoOS2,32)",MoOS2,"(MoOS2,180)",MoOS2,180
+"(MoS,75);(MoOS2,14);(MoS,2)","(MoOS2,35)",MoOS2,"(Mo2S3,100)",Mo2S3,100
+"(MoS2,1);(MoOS2,62);(MoS,2)","(MoOS2,36)",MoOS2,"(MoS2,20)",MoS2,20
+"(MoO2S,43);(MoS,2);(MoO2S,6)","(MoOS2,40)",MoOS2,"(MoO2S2, 47)",MoO2S2,47
+"(MoS,23);(MoOS2,2);(MoS,3)","(MoOS2,41)",MoOS2,"(MoOS2,25)",MoOS2,25
+"(MoO,23);(MoOS2,126);(MoOS4,3)","(MoOS2,57)",MoOS2,"(MoOS2, 123)",MoOS2,123
+"(MoS3,218);(MoOS3,70);(MoS4,30)","(MoOS2,52)",MoOS2,"(MoOS4,50)",MoOS4,50
+"(MoO2S,9);(MoO,93);(MoO2S,3)","(MoOS2,70)",MoOS2,"(MoO2S,21)",MoO2S,21
+"(MoS2,1);(MoS4,1);(MoO2S5,14)","(MoOS2,60)",MoOS2,"(MoS4,14)",MoS4,14
+"(MoO,45);(MoO2S,2);(MoO,71)","(MoOS2,72)",MoOS2,"(MoO2S2,114)",MoO2S2,114
+"(MoOS3,11);(MoS3,12);(MoS2,3)","(MoOS2,83)",MoOS2,"(MoOS3,22)",MoOS3,22
+"(MoS2,38);(MoOS2,24);(MoOS4,6)","(MoOS2,97)",MoOS2,"(MoOS4,22)",MoOS4,22
+"(MoS,5);(MoOS2,72);(MoS,2)","(MoOS2,88)",MoOS2,"(MoOS2,74)",MoOS2,74
+"(MoOS3,2);(MoOS2,32);(MoOS,11)","(MoOS2,111)",MoOS2,"(MoOS3, 25)",MoOS3,25
+"(MoOS,80);(MoO2S,2);(MoO2S3,5)","(MoOS2,111)",MoOS2,"(MoOS2,120)",MoOS2,120
+"(MoOS4,1);(MoOS2,100);(MoS,2)","(MoOS2,135)",MoOS2,"(MoOS4, 50)",MoOS4,50
+"(MoS,249);(MoS3,45);(MoOS4,2)","(MoOS2,142)",MoOS2,"(MoS3,45)",MoS3,45
+"(MoOS3,9);(MoS4,2);(MoOS4,39)","(MoOS2,168)",MoOS2,"(MoOS4,39)",MoOS4,39
+"(MoS,379);(MoOS2,19);(MoOS4,2)","(MoOS2,158)",MoOS2,"(MoOS2, 19)",MoOS2,19
+"(MoS,14);(MoS3,5);(MoS,395)","(MoOS2,206)",MoOS2,"(MoS2,150)",MoS2,150
+"(MoS,4);(MoOS2,47);(MoS,13)","(MoOS2,193)",MoOS2,"(MoOS2,47)",MoOS2,47
+"(MoS,2);(MoOS2,7);(MoS,2)","(MoOS2,245)",MoOS2,"(MoOS2, 7)",MoOS2,7
+"(MoOS4,4);(MoOS2,100);(MoOS4,13)","(MoOS2,237)",MoOS2,"(MoOS2,193)",MoOS2,193
+"(MoO,4);(MoO2,8);(MoO,339)","(MoOS2,279)",MoOS2,"(MoO2,339)",MoO2,339
+"(MoO2,4);(MoO,7);(MoS,9)","(MoOS2,285)",MoOS2,"(MoO2,25)",MoO2,25
+"(MoS,2);(MoOS2,76);(MoS,2)","(MoOS2,399)",MoOS2,"(MoOS2,76)",MoOS2,76
+"(MoOS3,2);(MoOS,6);(MoOS4,1)","(MoOS2,372)",MoOS2,"(MoOS3,13)",MoOS3,13
+"(MoS,49);(MoOS2,96);(MoS,2)","(MoOS2,435)",MoOS2,"(MoOS2,111)",MoOS2,111
+"(MoS3,14);(MoS2,28);(MoOS3,58)","(MoOS2,498)",MoOS2,"(MoOS2, 86)",MoOS2,86
+"(MoS2,43);(MoOS3,35);(MoS2,2)","(MoOS3,11)",MoOS3,"(MoS3,78)",MoS3,78
+"(MoS,2);(MoO,1);(MoOS,14)","(MoOS3,11)",MoOS3,"(MoOS, 15)",MoOS,15
+"(MoS2,3);(MoOS3,42);(MoS2,4)","(MoOS3,14)",MoOS3,"(MoS2,14)",MoS2,14
+"(Mo2S5,144);(MoS3,2);(Mo2S5,25)","(MoOS3,14)",MoOS3,"(Mo4S6,35)",Mo4S6,35
+"(MoS3,3);(MoOS4,8);(MoS2,1)","(MoOS3,16)",MoOS3,"(MoS2,9)",MoS2,9
+"(MoO,28);(MoOS2,14);(MoOS,3)","(MoOS3,15)",MoOS3,"(MoS2, 71)",MoS2,71
+"(MoOS4,2);(MoS3,2);(MoOS4,112)","(MoOS3,19)",MoOS3,"(MoS4,216)",MoS4,216
+"(MoS2,154);(MoOS3,55);(MoS2,2)","(MoOS3,18)",MoOS3,"(MoS3,500)",MoS3,500
+"(MoOS3,5);(MoOS4,2);(Mo2S6,7)","(MoOS3,24)",MoOS3,"(Mo4S8,15)",Mo4S8,15
+"(MoS3,2);(MoOS4,91);(MoOS2,154)","(MoOS3,22)",MoOS3,"(MoS2, 154)",MoS2,154
+"(MoS2,2);(MoOS3,29);(MoS2,4)","(MoOS3,32)",MoOS3,"(MoOS2, 32)",MoOS2,32
+"(MoO2,20);(MoOS3,49);(MoS2,195)","(MoOS3,28)",MoOS3,"(MoS2, 234)",MoS2,234
+"(MoOS,5);(MoOS3,23);(MoS2,2)","(MoOS3,37)",MoOS3,"(MoS3,45)",MoS3,45
+"(MoOS,137);(MoO2S2,34);(MoOS,46)","(MoOS3,38)",MoOS3,"(MoO2S2,34)",MoO2S2,34
+"(MoOS,123);(MoOS3,3);(MoS2,205)","(MoOS3,47)",MoOS3,"(MoOS2,216)",MoOS2,216
+"(MoOS4,18);(MoOS3,35);(MoO2S4,51)","(MoOS3,47)",MoOS3,"(MoO2S4,64)",MoO2S4,64
+"(MoOS2,170);(MoS3,10);(Mo2S6,18)","(MoOS3,53)",MoOS3,"(MoOS2,170)",MoOS2,170
+"(MoS,34);(MoS3,1);(MoS2,276)","(MoOS3,55)",MoOS3,"(MoS2,365)",MoS2,365
+"(Mo2S7,24);(MoS4,25);(MoOS5,8)","(MoOS3,70)",MoOS3,"(Mo2S7,24)",Mo2S7,24
+"(MoS2,4);(MoOS3,7);(MoS2,97)","(MoOS3,68)",MoOS3,"(MoS2,111)",MoS2,111
+"(MoOS2,48);(MoS,2);(MoOS2,48)","(MoOS3,73)",MoOS3,"(MoOS2,68)",MoOS2,68
+"(MoS2,2);(MoOS3,4);(MoS2,2)","(MoOS3,78)",MoOS3,"(MoOS2,6)",MoOS2,6
+"(MoS,38);(MoS3,5);(MoS,9)","(MoOS3,104)",MoOS3,"(MoS2, 10)",MoS2,10
+"(MoS2,25);(MoS4,10);(MoS2,140)","(MoOS3,86)",MoOS3,"(MoS4, 165)",MoS4,165
+"(Mo2S7,85);(Mo2S10,15);(Mo2S8,532)","(MoOS3,126)",MoOS3,"(Mo2S8, 1000)",Mo2S8,1000
+"(MoO2S4,3);(MoOS3,114);(MoS2,2)","(MoOS3,111)",MoOS3,"(MoS2,3)",MoS2,3
+"(MoOS2,144);(MoOS5,4);(MoS4,1)","(MoOS3,129)",MoOS3,"(MoOS2,44)",MoOS2,44
+"(MoOS5,4);(MoOS3,64);(MoS2,2)","(MoOS3,150)",MoOS3,"(MoOS5,110)",MoOS5,110
+"(MoS2,2);(MoOS3,28);(MoS2,2)","(MoOS3,158)",MoOS3,"(MoS2,54)",MoS2,54
+"(MoS2,2);(MoOS3,162);(MoS2,2)","(MoOS3,160)",MoOS3,"(MoS4, 1160)",MoS4,1160
+"(MoS2,2);(MoOS3,429);(MoS3,31)","(MoOS3,195)",MoOS3,"(MoOS4,1207)",MoOS4,1207
+"(MoOS4,5);(MoOS2,121);(MoOS5,1)","(MoOS3,196)",MoOS3,"(MoS2,800)",MoS2,800
+"(MoS3,44);(Mo2S7,201);(MoS3,15)","(MoOS3,246)",MoOS3,"(Mo2S7,176)",Mo2S7,176
+"(Mo2S7,8);(MoS3,8);(Mo2S7,222)","(MoOS3,244)",MoOS3,"(Mo4S6, 104)",Mo4S6,104
+"(MoS3,1);(MoOS7,1);(MoOS5,30)","(MoOS3,294)",MoOS3,"(Mo4O12S4,50)",Mo4O12S4,50
+"(MoS2,2);(MoOS3,377);(MoS2,2)","(MoOS3,330)",MoOS3,"(MoS3, 375)",MoS3,375
+"(Mo2S10,1167);(MoS5,3);(MoS3,9)","(MoOS3,380)",MoOS3,"(Mo2S6, 100)",Mo2S6,100
+"(MoS2,77);(MoOS3,70);(MoS2,2)","(MoOS3,392)",MoOS3,"(MoS3, 150)",MoS3,150
+"(MoS4,8);(MoS2,423);(MoS4,5)","(MoOS3,472)",MoOS3,"(MoS2,425)",MoS2,425
+"(MoO2S2,9);(MoOS,66);(MoS3,3)","(MoOS3,480)",MoOS3,"(MoS2,100)",MoS2,100
+"(MoS3,23);(MoOS4,6);(MoS3,178)","(MoOS4,11)",MoOS4,"(MoOS4,201)",MoOS4,201
+"(MoS3,2);(MoOS4,58);(MoS3,3)","(MoOS4,10)",MoOS4,"(MoOS4,58)",MoOS4,58
+"(MoS3,15);(MoS5,23);(MoS3,699)","(MoOS4,13)",MoOS4,"(MoS4, 1007)",MoS4,1007
+"(MoS3,2);(MoOS4,6);(MoS3,2)","(MoOS4,14)",MoOS4,"(MoOS3,5)",MoOS3,5
+"(MoS2,393);(Mo2S6,35);(MoS3,1)","(MoOS4,16)",MoOS4,"(Mo4S9, 15)",Mo4S9,15
+"(MoS3,3);(MoOS4,42);(MoS3,9)","(MoOS4,17)",MoOS4,"(MoOS3,54)",MoOS3,54
+"(MoS3,2);(MoOS4,26);(MoS3,2)","(MoOS4,19)",MoOS4,"(MoOS3, 30)",MoOS3,30
+"(Mo2S6,223);(MoS5,2);(MoOS5,6)","(MoOS4,21)",MoOS4,"(Mo2O2S6,1257)",Mo2O2S6,1257
+"(MoOS6,1);(MoOS4,78);(MoS3,2)","(MoOS4,24)",MoOS4,"(MoOS4,78)",MoOS4,78
+"(MoOS2,24);(MoS,2);(MoOS2,382)","(MoOS4,23)",MoOS4,"(MoOS2,382)",MoOS2,382
+"(MoOS2,163);(MoO2S3,3);(MoOS2,224)","(MoOS4,30)",MoOS4,"(MoOS2,163)",MoOS2,163
+"(MoO,2);(MoO2S,20);(MoOS2,486)","(MoOS4,30)",MoOS4,"(MoOS2,486)",MoOS2,486
+"(MoS3,2);(MoOS4,8);(MoS3,498)","(MoOS4,34)",MoOS4,"(MoOS4,498)",MoOS4,498
+"(MoS3,41);(MoS5,17);(MoS3,31)","(MoOS4,33)",MoOS4,"(MoS2,35)",MoS2,35
+"(MoS2,62);(MoS4,8);(MoS3,3)","(MoOS4,42)",MoOS4,"(MoS4,22)",MoS4,22
+"(Mo2S6,45);(MoS4,5);(Mo2S5,20)","(MoOS4,45)",MoOS4,"(Mo6S8,55)",Mo6S8,55
+"(MoS3,2);(MoOS4,148);(MoS3,5)","(MoOS4,49)",MoOS4,"(MoOS4,148)",MoOS4,148
+"(MoO2S5,4);(MoOS4,24);(MoS3,3)","(MoOS4,52)",MoOS4,"(MoS4, 27)",MoS4,27
+"(MoOS4,18);(MoS3,1);(MoOS2,1)","(MoOS4,60)",MoOS4,"(MoOS4,20)",MoOS4,20
+"(MoOS6,1);(MoOS4,4);(MoS3,184)","(MoOS4,62)",MoOS4,"(MoOS6,100)",MoOS6,100
+"(MoOS2,1);(MoOS4,54);(MoS3,2)","(MoOS4,77)",MoOS4,"(MoOS4,54)",MoOS4,54
+"(MoS4,2);(MoS5,225);(MoOS6,5)","(MoOS4,71)",MoOS4,"(MoOS6,235)",MoOS6,235
+"(MoS3,3);(MoO2S3,10);(MoS3,100)","(MoOS4,90)",MoOS4,"(MoS3, 123)",MoS3,123
+"(MoS3,2);(MoOS4,26);(MoS3,2)","(MoOS4,93)",MoOS4,"(MoS3, 30)",MoS3,30
+"(MoOS2,493);(MoOS4,32);(MoS3,2)","(MoOS4,110)",MoOS4,"(MoOS2,493)",MoOS2,493
+"(MoS3,2);(MoOS4,4);(MoS3,2)","(MoOS4,125)",MoOS4,"(MoOS3,6)",MoOS3,6
+"(MoS3,49);(MoOS4,191);(MoO2S5,4)","(MoOS4,147)",MoOS4,"(MoOS6,7)",MoOS6,7
+"(MoO2S4,10);(MoS3,1);(MoOS3,192)","(MoOS4,138)",MoOS4,"(MoOS4, 225)",MoOS4,225
+"(MoOS4,23);(MoO2S5,1);(MoS3,1)","(MoOS4,186)",MoOS4,"(MoOS4,23)",MoOS4,23
+"(MoS3,2);(MoOS4,132);(MoO2S5,3)","(MoOS4,155)",MoOS4,"(MoOS4,132)",MoOS4,132
+"(MoS3,2);(MoOS4,57);(MoS3,2)","(MoOS4,225)",MoOS4,"(MoS2,100)",MoS2,100
+"(MoOS2,112);(MoOS4,3);(MoS3,49)","(MoOS4,191)",MoOS4,"(MoOS3,49)",MoOS3,49
+"(Mo2S8,15);(MoOS3,80);(Mo2S9,21)","(MoOS4,248)",MoOS4,"(Mo2S9,100)",Mo2S9,100
+"(MoS3,2);(MoOS4,33);(MoS3,2)","(MoOS4,246)",MoOS4,"(MoOS4,33)",MoOS4,33
+"(MoS5,1);(MoOS4,39);(MoS3,2)","(MoOS4,314)",MoOS4,"(MoS5,56)",MoS5,56
+"(MoS3,45);(Mo2S6,17);(MoS3,366)","(MoOS4,307)",MoOS4,"(MoS2, 400)",MoS2,400
+"(MoS3,88);(MoS5,8);(MoS3,238)","(MoOS4,380)",MoOS4,"(MoS4,300)",MoS4,300
+"(MoS3,3);(MoOS4,138);(MoS3,2)","(MoOS4,339)",MoOS4,"(MoS3,5)",MoS3,5
+"(MoS3,4);(MoOS4,119);(MoS3,2)","(MoOS4,469)",MoOS4,"(MoS3, 121)",MoS3,121
+"(MoOS6,1);(MoOS4,136);(MoS3,2)","(MoOS4,436)",MoOS4,"(MoOS3,100)",MoOS3,100
+"(MoO2S2,3);(MoS2,130);(MoS4,339)","(MoOS5,11)",MoOS5,"(MoS4, 339)",MoS4,339
+"(MoS4,431);(MoOS5,20);(MoS4,2)","(MoOS5,10)",MoOS5,"(MoOS4,30)",MoOS4,30
+"(MoS4,2);(MoOS5,20);(MoS4,2)","(MoOS5,14)",MoOS5,"(MoS4,22)",MoS4,22
+"(MoS3,4);(MoOS4,6);(Mo2S7,4)","(MoOS5,14)",MoOS5,"(MoOS4,10)",MoOS4,10
+"(MoS4,4);(MoOS5,24);(MoS4,2)","(MoOS5,15)",MoOS5,"(MoS2, 28)",MoS2,28
+"(MoS4,55);(MoOS5,11);(MoS4,2)","(MoOS5,15)",MoOS5,"(MoOS5,70)",MoOS5,70
+"(MoS4,2);(MoOS5,2);(MoS4,3)","(MoOS5,21)",MoOS5,"(MoOS5,6)",MoOS5,6
+"(MoS4,56);(MoOS5,12);(MoS4,691)","(MoOS5,18)",MoOS5,"(MoS4,56)",MoS4,56
+"(MoS4,2);(MoOS5,12);(MoS4,8)","(MoOS5,22)",MoOS5,"(MoOS5,20)",MoOS5,20
+"(MoS2,1);(MoS,1);(MoOS3,122)","(MoOS5,25)",MoOS5,"(MoS2,56)",MoS2,56
+"(MoOS2,17);(MoOS5,22);(MoS4,2)","(MoOS5,29)",MoOS5,"(MoOS2,17)",MoOS2,17
+"(MoS4,54);(MoOS5,11);(MoS4,2)","(MoOS5,30)",MoOS5,"(MoOS4,21)",MoOS4,21
+"(MoS4,2);(MoOS5,117);(MoS4,4)","(MoOS5,34)",MoOS5,"(MoOS5,117)",MoOS5,117
+"(MoS4,2);(MoOS5,45);(MoS4,2)","(MoOS5,34)",MoOS5,"(MoOS5, 45)",MoOS5,45
+"(Mo2S10,4);(MoOS5,43);(MoS4,2)","(MoOS5,40)",MoOS5,"(Mo2S10, 4)",Mo2S10,4
+"(MoO2S5,40);(MoS4,2);(MoO2S5,149)","(MoOS5,46)",MoOS5,"(MoOS2,195)",MoOS2,195
+"(Mo2S8,40);(Mo2S10,3);(MoS4,84)","(MoOS5,50)",MoOS5,"(Mo2S8, 40)",Mo2S8,40
+"(MoS4,1);(MoOS5,4);(MoOS7,2)","(MoOS5,53)",MoOS5,"(MoOS8, 8)",MoOS8,8
+"(MoS4,2);(MoOS5,17);(MoS4,183)","(MoOS5,65)",MoOS5,"(MoOS5,190)",MoOS5,190
+"(MoS5,263);(MoOS5,56);(MoS4,2)","(MoOS5,66)",MoOS5,"(MoS5,265)",MoS5,265
+"(MoS3,43);(MoS5,4);(MoS4,193)","(MoOS5,77)",MoOS5,"(MoS4,193)",MoS4,193
+"(MoS4,2);(MoOS5,92);(MoS4,2)","(MoOS5,82)",MoOS5,"(MoOS4,68)",MoOS4,68
+"(MoS4,2);(MoOS5,105);(MoS4,2)","(MoOS5,93)",MoOS5,"(MoOS5,105)",MoOS5,105
+"(Mo2S10,5);(MoOS5,156);(MoS4,2)","(MoOS5,99)",MoOS5,"(Mo2S10,5)",Mo2S10,5
+"(MoS4,2);(MoOS5,75);(MoS4,2)","(MoOS5,120)",MoOS5,"(MoS4,2)",MoS4,2
+"(MoS4,2);(MoOS5,98);(MoS4,2)","(MoOS5,119)",MoOS5,"(MoOS5,98)",MoOS5,98
+"(MoS4,4);(MoOS5,180);(MoOS7,5)","(MoOS5,132)",MoOS5,"(MoOS6,10)",MoOS6,10
+"(MoS5,5);(MoS4,9);(MoOS3,192)","(MoOS5,139)",MoOS5,"(MoS3, 120)",MoS3,120
+"(MoS4,5);(MoOS5,7);(MoS4,2)","(MoOS5,165)",MoOS5,"(MoOS5, 12)",MoOS5,12
+"(MoS4,2);(MoOS5,277);(MoS4,2)","(MoOS5,169)",MoOS5,"(MoOS6,300)",MoOS6,300
+"(MoS4,2);(MoOS5,147);(MoS4,2)","(MoOS5,217)",MoOS5,"(MoOS5,147)",MoOS5,147
+"(MoS5,4);(MoOS5,4);(MoS4,3)","(MoOS5,190)",MoOS5,"(MoOS4,7)",MoOS4,7
+"(MoS4,183);(MoOS5,65);(MoS4,2)","(MoOS5,267)",MoOS5,"(MoS4,183)",MoS4,183
+"(Mo2S10,96);(MoOS5,103);(MoS4,2)","(MoOS5,272)",MoOS5,"(Mo6S8, 110)",Mo6S8,110
+"(MoS4,3);(MoOS5,7);(MoS4,3)","(MoOS5,308)",MoOS5,"(MoOS4,13)",MoOS4,13
+"(Mo2S9,10);(MoOS5,999);(MoOS7,5)","(MoOS5,311)",MoOS5,"(Mo4S10,15)",Mo4S10,15
+"(MoS4,2);(MoOS5,211);(MoS4,2)","(MoOS5,359)",MoOS5,"(MoS4,2)",MoS4,2
+"(MoS4,3);(MoOS5,72);(MoS4,2)","(MoOS5,383)",MoOS5,"(MoOS5,34)",MoOS5,34
+"(MoS4,2);(MoOS5,122);(MoS5,24)","(MoOS5,416)",MoOS5,"(MoS4,76)",MoS4,76
+"(MoS4,2);(MoOS5,40);(MoS4,2)","(MoOS5,429)",MoOS5,"(MoOS4,42), since the pattern observed in previous examples is that the number of oxygen atoms in the final product is always two more than the number of sulfur atoms. The duration of the reaction is the sum of the durations of the input molecules, which is 44 pic秒.",MoOS4,42
+"(MoOS4,2);(MoS3,168);(MoS5,1063)","(MoOS6,11)",MoOS6,"(MoOS4, 1680)",MoOS4,1680
+"(MoS5,2);(MoOS6,28);(MoS5,3)","(MoOS6,10)",MoOS6,"(Mo4S8,25)",Mo4S8,25
+"(MoS,1);(MoS3,113);(MoS5,160)","(MoOS6,13)",MoOS6,"(MoS2,45)",MoS2,45
+"(MoS5,2);(MoOS6,9);(MoS5,2)","(MoOS6,13)",MoOS6,"(MoS5,25)",MoS5,25
+"(Mo2S9,2);(Mo2S7,2);(MoS5,152)","(MoOS6,17)",MoOS6,"(Mo4S10,300)",Mo4S10,300
+"(MoOS4,28);(MoS3,2);(MoOS4,29)","(MoOS6,17)",MoOS6,"(MoO2S4,35)",MoO2S4,35
+"(MoOS2,1);(MoS3,1);(MoOS4,58)","(MoOS6,20)",MoOS6,"(MoS4,58)",MoS4,58
+"(MoOS6,18);(MoOS4,1);(MoS5,1)","(MoOS6,21)",MoOS6,"(MoOS6, 19)",MoOS6,19
+"(MoS5,2);(MoOS6,137);(MoS5,2)","(MoOS6,23)",MoOS6,"(MoS2,500)",MoS2,500
+"(MoOS5,40);(MoS4,2);(MoOS5,429)","(MoOS6,22)",MoOS6,"(MoOS2,300)",MoOS2,300
+"(Mo2S9,51);(MoOS4,16);(Mo2S9,40)","(MoOS6,28)",MoOS6,"(Mo2S9,67)",Mo2S9,67
+"(MoS5,2);(MoOS6,141);(MoS5,3)","(MoOS6,27)",MoOS6,"(MoOS7, 50)",MoOS7,50
+"(MoS5,161);(MoOS6,3);(MoS5,2)","(MoOS6,39)",MoOS6,"(Mo4O6S6,50)",Mo4O6S6,50
+"(MoS5,1);(MoOS6,6);(MoS5,71)","(MoOS6,37)",MoOS6,"(MoOS6,Time)
+Based on the patterns observed in previous examples, it appears that MoS5 and MoOS6 are reactants and MoOS6 is the most likely product molecule. The duration of the reaction cannot be accurately predicted without additional information or analysis of the MD simulation data.",,
+"(MoS5,3);(MoOS6,326);(MoS5,4)","(MoOS6,41)",MoOS6,"(MoOS2,500)",MoOS2,500
+"(MoS4,4);(MoOS5,223);(MoOS4,211)","(MoOS6,42)",MoOS6,"(MoOS4,211)",MoOS4,211
+"(MoS5,127);(Mo2S9,14);(MoS5,357)","(MoOS6,54)",MoOS6,"(Mo4S11, 28)",Mo4S11,28
+"(MoS5,4);(MoOS6,1680);(MoS5,4)","(MoOS6,56)",MoOS6,"(MoS5, 2016)",MoS5,2016
+"(MoS5,225);(MoOS6,5);(MoOS4,71)","(MoOS6,60)",MoOS6,"(Mo3S12, 501)",Mo3S12,501
+"(MoS5,4);(MoOS6,56);(MoS5,5)","(MoOS6,59)",MoOS6,"(MoOS6,68)",MoOS6,68
+"(MoO2S,2);(MoS,5);(MoOS2,80)","(MoOS6,82)",MoOS6,"(MoOS2,80)",MoOS2,80
+"(MoS5,2);(MoOS6,48);(MoS5,4)","(MoOS6,83)",MoOS6,"(MoS5,56)",MoS5,56
+"(MoS5,2);(MoOS6,28);(MoS5,2)","(MoOS6,86)",MoOS6,"(MoS3,30)",MoS3,30
+"(MoS5,2);(MoOS6,163);(MoS5,2)","(MoOS6,104)",MoOS6,"(MoS4, 100)",MoS4,100
+"(MoS5,2);(MoOS6,148);(MoS5,2)","(MoOS6,107)",MoOS6,"(MoS2,50)",MoS2,50
+"(MoS5,2);(MoOS6,76);(MoS5,2)","(MoOS6,115)",MoOS6,"(MoOS6,78)",MoOS6,78
+"(MoS5,2);(MoOS6,172);(MoS5,2)","(MoOS6,149)",MoOS6,"(MoS2,30)",MoS2,30
+"(MoOS6,3);(MoOS4,1);(MoS5,1)","(MoOS6,143)",MoOS6,"(MoOS5, 3)",MoOS5,3
+"(MoOS6,61);(MoS4,1);(MoS5,1)","(MoOS6,172)",MoOS6,"(MoOS4,61)",MoOS4,61
+"(MoS5,2);(MoOS6,94);(MoS5,2)","(MoOS6,185)",MoOS6,"(MoS4,50)",MoS4,50
+"(MoS5,2);(MoOS6,135);(MoS5,3)","(MoOS6,191)",MoOS6,"(MoOS6,180)",MoOS6,180
+"(MoS5,2);(MoOS6,69);(MoS5,4)","(MoOS6,228)",MoOS6,"(MoOS8,58)",MoOS8,58
+"(MoS5,3);(MoOS6,5);(MoS5,69)","(MoOS6,241)",MoOS6,"(MoS5,69)",MoS5,69
+"(MoS5,263);(MoOS6,88);(MoS5,374)","(MoOS6,261)",MoOS6,"(MoOS6,�)",,
+"(MoOS6,200);(MoS5,1);(MoOS4,1)","(MoOS6,322)",MoOS6,"(MoOS6,100)",MoOS6,100
+"(MoS5,2);(MoOS6,112);(MoS5,2)","(MoOS6,336)",MoOS6,"(MoS4, 45)",MoS4,45
+"(MoS5,1);(MoOS6,75);(MoS5,2)","(MoOS6,378)",MoOS6,"(MoOS6,80)",MoOS6,80
+"(MoS5,2);(MoOS6,130);(MoS5,4)","(MoOS6,343)",MoOS6,"(MoS5, 14)",MoS5,14
+"(MoS5,2);(MoOS6,229);(MoS5,2)","(MoOS6,455)",MoOS6,"(MoS3,100)",MoS3,100
+"(MoS5,4);(MoOS6,26);(MoS5,2)","(MoOS6,460)",MoOS6,"(MoOS7,10)",MoOS7,10
+"(MoS,2);(MoO2S,8);(MoS,7)","(MoO2S,10)",MoO2S,"(MoO2S2, 15)",MoO2S2,15
+"(MoO2,17);(MoO2S,6);(MoO,38)","(MoO2S,10)",MoO2S,"(MoOS2, 55)",MoOS2,55
+"(MoO2S,4);(MoOS,1);(MoO,3)","(MoO2S,13)",MoO2S,"(MoOS,5)",MoOS,5
+"(MoS,8);(MoO2S,4);(MoS,2)","(MoO2S,13)",MoO2S,"(MoO2S,10)",MoO2S,10
+"(MoS,3);(MoO2S,31);(MoS,3)","(MoO2S,16)",MoO2S,"(MoOS2,25)",MoOS2,25
+"(MoO,2);(MoO2S,80);(MoO,2)","(MoO2S,16)",MoO2S,"(MoOS, 80)",MoOS,80
+"(MoO2,320);(MoO2S2,2);(MoOS,1)","(MoO2S,18)",MoO2S,"(MoOS2, 1)",MoOS2,1
+"(MoO,40);(MoO2S,9);(MoO,202)","(MoO2S,21)",MoO2S,"(MoOS,100)",MoOS,100
+"(MoO,1);(MoO2S,6);(MoO,2)","(MoO2S,26)",MoO2S,"(MoOS2,14)",MoOS2,14
+"(MoS,36);(MoOS2,20);(MoS,6)","(MoO2S,24)",MoO2S,"(MoOS2, 42)",MoOS2,42
+"(MoS,5);(MoO2S,2);(MoS,11)","(MoO2S,28)",MoO2S,"(MoOS2,14)",MoOS2,14
+"(MoO2S2,1);(MoO2S,30);(MoO,2)","(MoO2S,31)",MoO2S,"Based on the patterns observed in previous examples, the most likely resulting product molecule is MoOS2, and its corresponding duration is approximately 20 picoseconds.",,
+"(MoS,2);(MoO2S,13);(MoS,6)","(MoO2S,35)",MoO2S,"(MoOS2,21)",MoOS2,21
+"(MoO,66);(MoO2S,3);(MoO,110)","(MoO2S,37)",MoO2S,"(MoOS2,134)",MoOS2,134
+"(MoO,2);(MoO2,8);(MoO,204)","(MoO2S,40)",MoO2S,"(MoOS2, 68)",MoOS2,68
+"(MoS,7);(MoO2S,9);(MoS,4)","(MoO2S,43)",MoO2S,"(MoO2S,13)",MoO2S,13
+"(MoO,2);(MoO2S,84);(MoO,4)","(MoO2S,51)",MoO2S,"(MoOS2, 132)",MoOS2,132
+"(MoOS4,8);(MoOS2,46);(MoOS3,20)","(MoO2S,52)",MoO2S,"(MoS2,74)",MoS2,74
+"(MoO,4);(MoO2S,35);(MoO,2)","(MoO2S,61)",MoO2S,"Based on the given input and previous examples, it can be observed that there is a reaction between MoO and S2 to form MoOS. Therefore, the most likely reaction product is MoOS, and its corresponding duration is likely to be similar to the duration of the second molecule in the input, which is 35 picoseconds. Thus, the output is: (MoOS,35)",MoOS,35
+"(MoOS,94);(MoO,2);(MoO2,1)","(MoO2S,66)",MoO2S,"(MoOS2, 111)",MoOS2,111
+"(MoO,2);(MoO2S,111);(MoO,2)","(MoO2S,80)",MoO2S,"(MoOS, 44)",MoOS,44
+"(MoO,64);(MoO2S,13);(MoO,2)","(MoO2S,84)",MoO2S,"Based on the given input and previous examples, it seems that the most likely reaction product is MoOS2, and its corresponding duration is approximately 57 picoseconds (the sum of the given durations).",,
+"(MoS,2);(MoO2S,19);(MoS,2)","(MoO2S,91)",MoO2S,"(MoOS2,19)",MoOS2,19
+"(MoO3,8);(MoO2,75);(MoO,5)","(MoO2S,91)",MoO2S,"(MoS2, 150)",MoS2,150
+"(MoO,4);(MoO2S,51);(MoO,2)","(MoO2S,107)",MoO2S,"Based on the observed sequence of molecules and their durations, it appears that the reaction is evolving towards the formation of MoS2. Given the similar duration of the final step and the previous example with MoS2 as the product, it can be inferred that the final product molecule is likely MoS2 with a duration of 51 picoseconds.",,
+"(MoO,2);(MoO2S,32);(MoO,2)","(MoO2S,111)",MoO2S,"(MoO2S2, 64)",MoO2S2,64
+"(MoO,4);(MoO2S,112);(MoO,2)","(MoO2S,131)",MoO2S,"Based on the given input, it seems that there is a reaction between MoO and S2, forming MoO2S. The duration of this reaction is 112 picoseconds. However, there is no information provided about the final product molecule or its duration. Therefore, I cannot provide a prediction for the resulting molecule and its duration.",,
+"(MoO2,151);(MoO,2);(MoO2,41)","(MoO2S,140)",MoO2S,"(MoS2,300), based on the pattern of previous examples where S2 reacts with metal oxides to form metal sulfides.",MoS2,300
+"(MoOS3,7);(MoOS5,1);(MoOS,9)","(MoO2S,182)",MoO2S,"(MoOS,10)",MoOS,10
+"(MoS,49);(MoO3,2);(MoO2,36)","(MoO2S,156)",MoO2S,"(Mo4O12S2,90)",Mo4O12S2,90
+"(MoO,1);(MoO2S,66);(MoO,2)","(MoO2S,191)",MoO2S,"(MoOS2, 200)",MoOS2,200
+"(MoO,2);(MoO2S,16);(MoO,2)","(MoO2S,214)",MoO2S,"(MoOS2, 24)",MoOS2,24
+"(MoO2,48);(MoO,2);(MoO2,3)","(MoO2S,277)",MoO2S,"(MoOS,70)",MoOS,70
+"(MoOS5,2);(MoS4,229);(MoS3,13)","(MoO2S,319)",MoO2S,"(MoOS3,100)",MoOS3,100
+"(MoOS5,2);(MoS4,229);(MoS3,13)","(MoO2S,319)",MoO2S,"(MoOS4,201)",MoOS4,201
+"(MoO,26);(MoO2S,66);(MoO,2)","(MoO2S,345)",MoO2S,"Based on the given input, it appears that the reaction is forming MoO2S from MoO and S2, and then MoS3 from MoO2S. Given this pattern, the most likely reaction product and its corresponding duration would be:
+
+(MoS3, 300)",MoS3,300
+"(MoOS3,61);(MoO2S,22);(MoO,2)","(MoO2S,426)",MoO2S,"(MoO2S2, 115)",MoO2S2,115
+"(MoO3,1);(MoO2,52);(MoO,83)","(MoO2S,15)",MoO2S,"(MoS2,150)",MoS2,150
+"(MoO,4);(MoO2S,19);(MoO,2)","(MoO2S,93)",MoO2S,"Based on the given input, it appears that the reaction between Mo3O9 and S2 is still ongoing. However, we can make an educated guess about the most likely resulting product molecule and its corresponding duration based on previous examples and patterns observed.
+
+In a similar reaction between Mo3O9 and S2, the resulting product was Mo3O11S2. Therefore, we can expect the final product in this reaction to be Mo3O11S2 as well. The corresponding duration for the reaction cannot be accurately predicted without more information, but it is likely to be several picoseconds.
+
+Therefore, the predicted result is: (",,
+"(MoS,3);(MoO2S,4);(MoS,13)","(MoO2S,13)",MoO2S,"(MoOS2,21)",MoOS2,21
+"(MoOS,86);(MoOS3,5);(MoOS,114)","(MoO2S2,11)",MoO2S2,"(MoOS2,181)",MoOS2,181
+"(MoOS,2);(MoO2S2,15);(MoOS,158)","(MoO2S2,11)",MoO2S2,"(MoO2S2, 158)",MoO2S2,158
+"(MoS,171);(MoOS2,28);(MoOS,14)","(MoO2S2,13)",MoO2S2,"(Mo4O12S4, 196)",Mo4O12S4,196
+"(MoS2,3);(MoO2S2,24);(MoS2,2)","(MoO2S2,13)",MoO2S2,"(MoS2,20)",MoS2,20
+"(MoS2,2);(MoO2S2,17);(MoS2,4)","(MoO2S2,17)",MoO2S2,"(MoS2,25)",MoS2,25
+"(MoS3,6);(Mo2S7,72);(MoS3,15)","(MoO2S2,17)",MoO2S2,"(Mo4S9, 33)",Mo4S9,33
+"(MoOS2,93);(MoS,80);(MoOS2,33)","(MoO2S2,20)",MoO2S2,"(MoOS2,93)",MoOS2,93
+"(MoS2,4);(MoO2S2,3);(MoS2,5)","(MoO2S2,18)",MoO2S2,"(MoS2,12)",MoS2,12
+"(MoOS,2);(MoO2S2,15);(MoOS,19)","(MoO2S2,23)",MoO2S2,"(MoO2S2, 20)",MoO2S2,20
+"(MoS2,2);(MoO2S2,23);(MoS2,3)","(MoO2S2,24)",MoO2S2,"(MoS2, 8)",MoS2,8
+"(MoS,3);(MoO2S2,11);(MoOS2,5)","(MoO2S2,27)",MoO2S2,"(MoOS2,5)",MoOS2,5
+"(MoS2,5);(MoO2S2,14);(MoS2,2)","(MoO2S2,27)",MoO2S2,"(MoS2,21)",MoS2,21
+"(MoOS2,97);(MoO2S2,4);(MoOS,137)","(MoO2S2,34)",MoO2S2,"(MoO2S2,200)",MoO2S2,200
+"(MoO2,11);(MoO2S2,1);(MoOS,346)","(MoO2S2,39)",MoO2S2,"(MoOS, 1000)",MoOS,1000
+"(MoO2,197);(MoO2S2,9);(MoOS,183)","(MoO2S2,46)",MoO2S2,"(MoOS2,183)",MoOS2,183
+"(MoS3,29);(MoO2S2,9);(MoS2,9)","(MoO2S2,42)",MoO2S2,"(Mo4S6, 20)",Mo4S6,20
+"(MoOS,2);(MoO2S2,3);(MoOS,2)","(MoO2S2,52)",MoO2S2,"(MoO2S2,5)",MoO2S2,5
+"(MoO,62);(MoOS2,1);(MoOS,67)","(MoO2S2,58)",MoO2S2,"(MoOS2,90)",MoOS2,90
+"(MoOS,2);(MoO2S2,15);(MoOS,4)","(MoO2S2,59)",MoO2S2,"(MoOS2,11)",MoOS2,11
+"(MoO2S2,15);(MoOS,1);(MoS,1)","(MoO2S2,65)",MoO2S2,"(MoOS2, 10)",MoOS2,10
+"(MoO2S2,5);(MoO,4);(MoS2,6)","(MoO2S2,76)",MoO2S2,"(MoO2S2,11)",MoO2S2,11
+"(MoOS,2);(MoO2S2,58);(MoOS,7)","(MoO2S2,85)",MoO2S2,"(MoO2S2,58)",MoO2S2,58
+"(MoOS3,35);(MoS3,24);(MoOS3,37)","(MoO2S2,94)",MoO2S2,"(MoS3, 51)",MoS3,51
+"(Mo,1);(MoO2S2,17);(MoOS,2)","(MoO2S2,105)",MoO2S2,"(MoOS2,25)",MoOS2,25
+"(MoS3,168);(MoO2S2,34);(MoOS,2)","(MoO2S2,112)",MoO2S2,"(MoOS2,142)",MoOS2,142
+"(MoOS,41);(MoO2S2,6);(MoOS,143)","(MoO2S2,175)",MoO2S2,"(MoO2S2,180)",MoO2S2,180
+"(MoS2,2);(MoOS3,18);(MoS3,5)","(MoO2S2,183)",MoO2S2,"(MoS3,22)",MoS3,22
+"(MoOS2,10);(MoO,11);(MoOS2,7)","(MoO2S2,210)",MoO2S2,"(MoOS2, 24)",MoOS2,24
+"(MoOS3,204);(MoS2,2);(MoOS3,20)","(MoO2S2,355)",MoO2S2,"(MoOS3,124)",MoOS3,124
+"(MoS3,41);(Mo2S7,28);(MoOS3,131)","(MoO2S2,458)",MoO2S2,"(Mo4S6, 500)",Mo4S6,500
+"(MoO2S4,7);(MoO2S2,22);(MoO2S4,2)","(MoO2S2,438)",MoO2S2,"(MoO2S2,50)",MoO2S2,50
+"(MoS2,2);(MoO2S2,13);(MoS2,3)","(MoO2S2,18)",MoO2S2,"(MoO2S2, 15)",MoO2S2,15
+"(MoOS,45);(MoO2S2,11);(MoOS,2)","(MoO2S2,10)",MoO2S2,"(MoO2S2,70)",MoO2S2,70
+"(MoOS,1);(MoO2S2,17);(MoOS,7)","(MoO2S2,10)",MoO2S2,"(MoOS2, 25)",MoOS2,25
+"(MoOS,178);(MoOS3,9);(MoOS,314)","(MoO2S2,13)",MoO2S2,"(Mo2O6S2,1002)",Mo2O6S2,1002
+"(MoS2,38);(MoO2S2,3);(MoS2,14)","(MoO2S2,19)",MoO2S2,"(MoOS2,42)",MoOS2,42
+"(MoS,3);(MoOS2,2);(MoOS,10)","(MoO2S2,28)",MoO2S2,"(MoS2,8)",MoS2,8
+"(MoOS3,9);(MoO2S2,20);(MoOS3,94)","(MoO2S2,18)",MoO2S2,"(Mo4O12S4,120)",Mo4O12S4,120
+"(MoS2,3);(MoO2S2,8);(MoS2,2)","(MoO2S2,17)",MoO2S2,"(MoS2,13)",MoS2,13
+"(MoOS,163);(MoOS3,6);(MoOS,165)","(MoO2S2,15)",MoO2S2,"(MoOS3, 333)",MoOS3,333
+"(MoS4,14);(MoO2S4,4);(MoS4,2)","(MoO2S4,11)",MoO2S4,"(MoO2S4,22)",MoO2S4,22
+"(MoS4,1);(MoO2S4,15);(MoS4,2)","(MoO2S4,12)",MoO2S4,"(MoO2S4,35)",MoO2S4,35
+"(MoOS4,23);(MoOS2,117);(MoOS3,376)","(MoO2S4,13)",MoO2S4,"(MoOS3,376)",MoOS3,376
+"(MoO2S4,2);(MoOS3,1);(MoS3,1)","(MoO2S4,14)",MoO2S4,"(MoOS4,2)",MoOS4,2
+"(MoO2S2,1);(MoO2S4,35);(MoOS3,2)","(MoO2S4,16)",MoO2S4,"(MoS3, 55)",MoS3,55
+"(MoS4,230);(MoO2S4,5);(MoS4,2)","(MoO2S4,15)",MoO2S4,"(MoO2S4,35)",MoO2S4,35
+"(MoOS4,6);(MoO2S5,4);(MoOS4,12)","(MoO2S4,21)",MoO2S4,"(MoO2S5,34)",MoO2S5,34
+"(MoS4,5);(MoOS5,104);(MoS4,65)","(MoO2S4,18)",MoO2S4,"(MoS4,70)",MoS4,70
+"(Mo2S6,170);(Mo2S8,11);(Mo2S6,86)","(MoO2S4,22)",MoO2S4,"(Mo2S7,Time)",,
+"(MoOS3,2);(MoO2S4,27);(MoS2,2)","(MoO2S4,26)",MoO2S4,"(MoS3,25)",MoS3,25
+"(MoS4,2);(MoO2S4,52);(MoS4,2)","(MoO2S4,32)",MoO2S4,"(MoS4,2)",MoS4,2
+"(MoOS3,7);(MoO2S4,25);(MoOS3,4)","(MoO2S4,31)",MoO2S4,"(MoOS3,7)",MoOS3,7
+"(Mo2S8,9);(MoO2S4,42);(MoS3,5)","(MoO2S4,38)",MoO2S4,"(Mo3S8, 58)",Mo3S8,58
+"(MoO2S4,17);(MoS3,1);(MoOS3,1)","(MoO2S4,37)",MoO2S4,"(MoS4, 34)",MoS4,34
+"(MoO2S4,820);(MoS3,2);(MoOS3,1)","(MoO2S4,45)",MoO2S4,"(MoOS3,21)",MoOS3,21
+"(MoS4,7);(MoO2S4,24);(Mo2S9,34)","(MoO2S4,41)",MoO2S4,"(Mo2S9,34)",Mo2S9,34
+"(MoS3,2);(MoOS4,18);(MoOS3,35)","(MoO2S4,51)",MoO2S4,"(MoS2,25)",MoS2,25
+"(MoS4,4);(MoO2S4,5);(MoS4,2)","(MoO2S4,55)",MoO2S4,"(MoS4,10)",MoS4,10
+"(MoOS3,2);(MoO2S4,10);(MoOS3,2)","(MoO2S4,66)",MoO2S4,"(MoO2S4,18)",MoO2S4,18
+"(MoOS4,6);(MoO2S4,385);(MoS3,2)","(MoO2S4,74)",MoO2S4,"(MoOS4,6)",MoOS4,6
+"(MoOS4,242);(MoS4,15);(MoOS4,6)","(MoO2S4,385)",MoO2S4,"(MoOS4,243)",MoOS4,243
+"(MoOS3,49);(MoO2S4,7);(MoOS3,2)","(MoO2S4,22)",MoO2S4,"(MoO2S4,65)",MoO2S4,65
+"(MoS4,2);(MoO2S4,11);(MoS4,4)","(MoO2S4,11)",MoO2S4,"(MoO2S4,17)",MoO2S4,17
+"(MoOS4,8);(MoOS2,15);(MoOS3,274)","(MoO2S4,12)",MoO2S4,"(MoS2,50)",MoS2,50
+"(MoOS3,50);(MoO2S4,3);(MoOS3,2)","(MoO2S4,35)",MoO2S4,"(MoOS3,50)",MoOS3,50
+"(MoS4,3);(Mo2S5,77);(MoS2,2)","(MoO2S4,11)",MoO2S4,"(MoS2,4)",MoS2,4
+"(MoOS3,2);(MoO2S4,35);(MoOS3,2)","(MoO2S4,27)",MoO2S4,"(MoOS3, 45)",MoOS3,45
+"(MoO2S4,16);(MoS3,1);(MoOS3,1)","(MoO2S4,26)",MoO2S4,"(MoOS3,10)",MoOS3,10
+"(MoO2S4,8);(MoS3,1);(MoOS3,1)","(MoO2S4,10)",MoO2S4,"(MoOS3,3)",MoOS3,3
+"(MoS2,2);(MoO2S4,26);(MoOS3,7)","(MoO2S4,11)",MoO2S4,"(MoOS3,7)",MoOS3,7
+"(MoOS3,2);(MoO2S4,66);(MoOS3,7)","(MoO2S4,25)",MoO2S4,"(MoO2S4,66)",MoO2S4,66
+"(MoOS3,4);(MoS2,2);(MoOS3,96)","(MoO2S4,34)",MoO2S4,"(MoOS3,100)",MoOS3,100
+"(MoS4,2);(MoO2S4,26);(MoS4,2)","(MoO2S4,52)",MoO2S4,"(MoO2S4,52)",MoO2S4,52
+"(MoO2S4,34);(MoOS3,1);(MoS3,2)","(MoO2S4,16)",MoO2S4,"(MoS3,47)",MoS3,47
+"(Mo2S9,1);(MoS4,35);(Mo2S8,182)","(MoO2S4,10)",MoO2S4,"(Mo2S9,182)",Mo2S9,182
+"(MoS4,156);(MoOS5,16);(MoOS3,182)","(MoO2S4,20)",MoO2S4,"(MoS3,216)",MoS3,216
+"(MoS4,7);(MoO2S4,2);(MoS4,7)","(MoO2S4,24)",MoO2S4,"(MoS4, 16)",MoS4,16
+"(MoOS3,4);(MoS2,23);(MoOS3,449)","(MoO2S4,44)",MoO2S4,"(MoS2,23)",MoS2,23
+"(MoS3,2);(MoOS4,112);(MoOS3,19)","(MoO2S4,22)",MoO2S4,"(Mo4O12S4,1008)",Mo4O12S4,1008
+"(MoS3,5);(MoO2S4,38);(MoOS3,2)","(MoO2S4,40)",MoO2S4,"(MoOS3, 20)",MoOS3,20
+"(MoO,289);(MoOS2,8);(MoO,103)","(MoO3,13)",MoO3,"(MoOS2,120)",MoOS2,120
+"(MoO,28);(MoO3,4);(MoO,5)","(MoO3,12)",MoO3,"(MoO2,35)",MoO2,35
+"(MoO,5);(MoO3,12);(MoO,2)","(MoO3,14)",MoO3,"(MoS2,23)",MoS2,23
+"(MoO2,2);(MoO2S2,2);(MoO2,317)","(MoO3,10)",MoO3,"Based on the given input, it appears that there is a reaction taking place between MoO2 and S2. The final molecule observed has the formula MoO2S2. The total duration of the reaction is 319 picoseconds.",,
+"(MoO,2);(MoO3,3);(MoO,3)","(MoO3,43)",MoO3,"(MoS2,22)",MoS2,22
+"(MoO,11);(MoO3,24);(MoO,2)","(MoO3,24)",MoO3,"(MoO4,25)",MoO4,25
+"(MoO,3);(MoO3,6);(MoO,2)","(MoO3,11)",MoO3,"(Mo4O12,14)",Mo4O12,14
+"(MoO,3);(MoO3,9);(MoO,2)","(MoO3,15)",MoO3,"(MoO4,11)",MoO4,11
+"(MoO,2);(MoO3,15);(MoO,2)","(MoO3,29)",MoO3,"(MoS2,10)",MoS2,10
+"(MoO,2);(MoO3,29);(MoO,4)","(MoO3,19)",MoO3,"(MoO2,24)",MoO2,24
+"(MoO,4);(MoO3,4);(MoO,3)","(MoO3,21)",MoO3,"(MoS2,7)",MoS2,7
+"(MoO,2);(MoO3,4);(MoO,8)","(MoO3,24)",MoO3,"(MoO3,12)",MoO3,12
+"(MoO,2);(MoO3,5);(MoO,7)","(MoO3,12)",MoO3,"(MoO4,13)",MoO4,13
+"(MoO,7);(MoO3,12);(MoO,6)","(MoO3,21)",MoO3,"(MoO3,30)
+
+Justification: Based on previous examples, it appears that the reaction between MoO and S2 produces MoO3 as the final product. The duration of the reaction can be estimated by adding the durations of the reactant molecules. Therefore, the predicted reaction product is MoO3 with a duration of 30 picoseconds (7 + 12 + 6).",MoO3,30
+"(MoO,6);(MoO3,21);(MoO,2)","(MoO3,19)",MoO3,"(MoO4,10)",MoO4,10
+"(MoO,2);(MoO3,19);(MoO,10)","(MoO3,11)",MoO3,"(MoO4,30)",MoO4,30
+"(MoO,7);(MoO3,6);(MoO,2)","(MoO3,22)",MoO3,"(MoS2,100)",MoS2,100
+"(MoO,2);(MoO3,22);(MoO,2)","(MoO3,24)",MoO3,"(MoS2,50)",MoS2,50
+"(MoO,2);(MoO3,7);(MoO,8)","(MoO3,10)",MoO3,"(MoO2,20)",MoO2,20
+"(MoO,2);(MoO3,9);(MoO,2)","(MoO3,16)",MoO3,"(MoO4,14)",MoO4,14
+"(MoO,6);(MoO3,5);(MoO,20)","(MoO3,10)",MoO3,"(MoO3,34)",MoO3,34
+"(MoO2,3);(MoO,6);(MoO2,3)","(MoO3,10)",MoO3,"(MoO3,10)",MoO3,10
+"(MoO,3);(MoO3,4);(MoO,2)","(MoO3,10)",MoO3,"(MoS2,6)",MoS2,6
+"(MoO,2);(MoO3,3);(MoO,5)","(MoO3,45)",MoO3,"(MoOS2,22)",MoOS2,22
+"(MoO,3);(MoO3,7);(MoO,3)","(MoO3,10)",MoO3,"(MoO4,5)",MoO4,5
+"(MoO,3);(MoO3,10);(MoO,5)","(MoO3,10)",MoO3,"(MoO2, 8)",MoO2,8
+"(MoO,13);(MoO3,3);(MoO,3)","(MoO3,23)",MoO3,"(MoOS, 16)",MoOS,16
+"(MoO,3);(MoO3,23);(MoO,4)","(MoO3,15)",MoO3,"(MoS2, 10)",MoS2,10
+"(MoO,2);(MoO3,2);(MoO,2)","(MoO3,11)",MoO3,"(MoS2, 10)",MoS2,10
+"(MoO,2);(MoO3,11);(MoO,2)","(MoO3,15)",MoO3,"(MoO4,14)",MoO4,14
+"(MoO,2);(MoO3,15);(MoO,2)","(MoO3,19)",MoO3,"(MoO2S,10)",MoO2S,10
+"(MoO,2);(MoO3,19);(MoO,2)","(MoO3,31)",MoO3,"(MoO2,22)",MoO2,22
+"(MoO,2);(MoO3,31);(MoO,2)","(MoO3,37)",MoO3,"(Mo2O6,50)",Mo2O6,50
+"(MoO,2);(MoO3,37);(MoO,2)","(MoO3,47)",MoO3,"(MoS2,25)",MoS2,25
+"(MoO,3);(MoO3,5);(MoO,2)","(MoO3,41)",MoO3,"(MoO2,4)",MoO2,4
+"(MoO,2);(MoO2S,37);(MoO,75)","(MoO3,32)",MoO3,"(MoOS,120)",MoOS,120
+"(MoO,75);(MoO3,32);(MoO,3)","(MoO3,12)",MoO3,"(MoO4,25)",MoO4,25
+"(MoO,2);(MoO3,9);(MoO,2)","(MoO3,16)",MoO3,"(MoS2,10)",MoS2,10
+"(MoO,139);(MoO3,5);(MoO,3)","(MoO3,10)",MoO3,"(MoO2,120)",MoO2,120
+"(MoO,2);(MoO3,7);(MoO,8)","(MoO3,10)",MoO3,"(MoS2,10)",MoS2,10

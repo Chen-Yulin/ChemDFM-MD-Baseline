@@ -25,17 +25,6 @@ SYSTEM_PROMPT = """You are a molecular simulation expert with strong knowledge i
 Input: (Molecule1, duration1);(Molecule2, duration2);(Molecule3, duration3)
 Output: (MoleculeX, durationX)
 
-### Examples
-input1:(MoS5,148);(MoOS6,25);(MoS5,71)
-output1:(MoS7,10)
-input2:(MoO2,27);(MoO,113);(MoO2,182)
-output2:(MoO,81)
-input3:(MoOS,328);(MoS,4);(MoOS,11)
-output3:(MoO2S,21)
-
-### New Prediction Task:
-
-Now, based on the examples provided above, make your prediction.
 Now, identify the most likely resulting product molecule and its corresponding duration. Use the patterns observed in previous examples. Return ONLY the predicted result in the format: (Molecule,Time)
 If you are uncertain, still give your best guess based on prior examples. Do NOT say 'I don't know'.
 """
@@ -64,7 +53,7 @@ def extract_valid_formulas(df: pd.DataFrame) -> set:
 
 def build_prompt(input_x: str) -> str:
     """构建完整的 prompt"""
-    prompt = f"{SYSTEM_PROMPT}\nInput: {input_x}\nOutput:"
+    prompt = f"[Round 0]\nHuman: {SYSTEM_PROMPT}\nInput: {input_x}\nOutput:\nAssistant:"
     return prompt
 
 
